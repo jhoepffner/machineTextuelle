@@ -1,0 +1,1680 @@
+numRep	nbrJoueur	txtJ1	b1J1	b2J1	b3J1	b4J1	didJ1	voixJ1	sonJ1	imageJ1	txtJ2	b1J2	b2J2	b3J2	b4J2	didJ2	voixJ2	sonJ2	imageJ2	txtJ3	b1J3	b2J3	b3J3	b4J3	didJ3	voixJ3	sonJ3	imageJ3	txtJ4	b1J4	b2J4	b3J4	b4J4	didJ4	voixJ4	sonJ4	imageJ4	mc1	mc2	mc3	mc4	mc5	mc6	mc7	mc8	mc9	mc10	mc11
+																																																
+33	1	Twitter. « Je ne suis plus constipé. »  																																				provocation	plaisir	bilan	reseau	voyeur	obsession	intimite				
+		Voilà.																																														
+		Encore une petite bribe de ma vie envoyée aux amis.																																														
+		Je ne suis pas seul. Je partage. 																																														
+		Il n’y a rien de pire que les individus renfermés sur eux-mêmes…																																														
+		 … qui vivent comme si le reste de l’humanité n’existait pas. 																																														
+		S’ouvrir aux autres, c’est important. 																																														
+		Montrer ce qu’on est, ce qu’on fait. 																																														
+		Des gros ventres de femmes enceintes fleurissent sur les réseaux sociaux,																																														
+		on exhibe le sac avant d’exhiber le lardon :																																														
+		je trouve ça top !																																														
+																																																
+34	2	Donnez-moi votre avis. 																																				paternalisme	fort/faible	rhétorique	pretention	renversement						
+		Qu'il puisse exister des lois et que les meilleurs d'entre nous																																														
+		 en viennent à les violer et restent impunis, en un sens, c'est épouvantable, 																																														
+		vous êtes d’accord ? 																																														
+		Le rayonnement de l'exemple corrompu comme un vulgaire fruit																																														
+		 laissé trop longtemps au soleil, c’est inadmissible !																																														
+											Ça va, arrête de me draguer. 																																					
+											J'ai connu un homme qui avait des mains d'océan,																																					
+											avec une profondeur infinie juste au creux de la paume 																																					
+											et la fierté d'une algue qui se balance secrètement dans un haut fond. 																																					
+											Tu n'auras jamais ces mains-là. Alors va faire le coq ailleurs.																																					
+		-. Écoutez, je crois que vous vous méprenez sur mes intentions…																																														
+											Fous le camp, 																																					
+											les couilles molles, je les repère à cent pas.																																					
+																																																
+35	1		GO				Allez vers un spectateur qui porte des lunettes																															singulier	pluriel	manipulation	façade	fanfaronner						
+			GO				Demandez lui de vous prêter ses lunettes																																									
+			GO				Vous vous approchez d'un autre spectateur																																									
+			GO				Regardez le/la dans les yeux																																									
+			GO				Cherchez un autre spectateur																																									
+			GO				Regardez le/la dans les yeux																																									
+			GO				Regardez tous les spectateurs																																									
+		Vous voyez	GO																																													
+		Je porte des lunettes	GO																																													
+		J'ai une chevalière au doigt	GO																																													
+			GO				Retirez vos lunettes et remettez les au propriétaire																																									
+		Quand la situation l'exige	GO																																													
+		Je peux me perruquer	GO																																													
+		Colorer mes yeux 	GO																																													
+		Prendre un accent étranger	GO																																													
+		Retourner ma veste	GO				Prenez une chaise et placez la au centre de la scène																																									
+			GO																																													
+		Je suis un oiseau avisé	GO																																													
+		Je ne vole que dans le ciel du possible moi	GO				Asseyez-vous																																									
+			GO																																													
+		J'ai une philosophie simple	GO																																													
+		On fait ce qu'on peut avec ce qu'on a	GO																																													
+			GO																																													
+		Mais si on sait y faire	GO																																													
+		ça peut rapporter gros	GO				Choississez une musique sur votre téléphone que vous connaissez par cœur		Musique choisie par le joueur																																							
+			GO				C'est votre moment !																																									
+			GO				Faîtes un playback ou chantez avec votre son																																									
+			GO				Lancez la musique																																									
+																																																
+36	1	Je suis médecin.																																				condamnation	temoignage	récit	nihiliste	rhétorique	morts	erreur	vie	bilan		
+		Si on avait su, on ne l'aurait pas fait, évidemment ! 																																														
+		Mais à l'époque personne ne savait.																																														
+		En tout cas, ce n'était pas clair.																																														
+		Je ne dis pas qu'on ne savait rien.																																														
+		Il est toujours pensable que quelque part quelqu'un sache,																																														
+		il y a toujours dans le monde un spécialiste en avance sur le reste de l'humanité.																																														
+		Mais pour une personne qui sait, il y en a mille dans l'ignorance.																																														
+		En définitive, nous ne savons pas grand chose,																																														
+		nous devinons, nous supposons, 																																														
+		mais des certitudes, non, laissez-moi rire !																																														
+		Que celui qui sait dans la certitude du savoir médical vienne me le dire en face.																																														
+		Qu'il vienne ce héros omniscient, ce titan de la connaissance scientifique !																																														
+		Alors, on a fait ce qu'on a pu avec les moyens qu'on avait.																																														
+		 On l'a fait le plus honnêtement qu'on pouvait.																																														
+		 Si encore nous ne l'avions pas fait !																																														
+		 Si nous n'avions pas fait tout ce qu'il était possible de faire, mais nous l'avons fait !																																														
+		 Fait tout ce qu’il était possible de faire,																																														
+		 du moins dans l'état de nos connaissances,																																														
+		 tout fait en toute bonne foi.																																														
+		 Bien sûr, aujourd'hui nous aimerions n'avoir pas fait ce qui a été fait																																														
+		et que nous ne savions pas qu'il ne fallait pas faire.																																														
+		C'est comme ça l'Homme. 																																														
+		Moi, je ne l'ai su que plus tard.																																														
+		Trop tard, je peux le jurer sur la tête de mon père !																																														
+		Ce n'est que plus tard que l'évidence m'a tranché comme un rasoir.																																														
+		Je ne dis pas qu'au plus haut niveau, il n'y avait pas des affaires de gros sous.																																														
+		L'homme est l'homme.																																														
+		Le gain, l'ignorance, mais la brebis galeuse doit-elle discréditer le troupeau ?																																														
+		Je dis fermement, non !																																														
+		En tous cas, en ce qui me concerne, je sais exactement ce que je ne savais pas.																																														
+		J'ai donc ma conscience pour moi 																																														
+		et parfois contre moi, d'accord, mais bouc émissaire, non !																																														
+		Que les politiques prennent leur part dans cette affaire!																																														
+		C'est une question de dignité pour le corps médical,																																														
+		notre dignité à tous, ai-je soutenu au conseil de l'ordre.																																														
+		Alors madame, qu'une malheureuse transfusion,																																														
+		infectée par la saloperie, ait arraché la vie à votre petit garçon, je le regrette très profondément,																																														
+		mais excusez-moi, il n'y a pas de raison que je mette le premier la tête sous la guillotine.																																														
+		Vous comprenez ?																																														
+																																																
+37	1	Tu veux me lécher les doigts ? 																																				jeu	fanfaronner	perversion	fort/faible	posture	sexe					
+		Je te préviens : C'est le goût du sang salé des rebelles																																														
+		et quand j'ouvre les bras j’ai l'envergure des grands aigles !																																														
+																																																
+38	1	Toi, par exemple, tu serais un chargement de café brésilien, je saurais exactement ce que tu vaux.																																				marchandage	vente	fanfaronner	négocier	capitalisme	corruption					
+		Je pourrais le dire au centime près : vendre et acheter est mon métier. 																																														
+		J'achète pour vendre, je vends pour acheter, 																																														
+		c'est le mouvement qui fait le bénéfice, 																																														
+		ça me met sur le dos les fringues que tu vois, 																																														
+		et, à la banque, de l'argent qui fait de l'argent. 																																														
+		Fais-moi confiance, j'ai le commerce dans le sang. 																																														
+		Je vendrais une tonne de sable à un bédouin.																																														
+																																																
+39	1	Dieu fit toute chose, la terre et le ciel, les poils de rat et les crottes de nez. 																																				mythe	genèse	faute	voyeurisme	nu	recit	sexe	misanthropie	perversion		
+		Fit aussi la connerie de me créer sans bras et sans pattes si bien que depuis la nuit des temps je suis serpent, 																																														
+		je racle le sol de mon ventre. 																																														
+		Et un jour, comme je redressais péniblement la tête, 																																														
+		je vis deux créatures dont l’une disait à l’autre : moi, Adam, toi, Ève.																																														
+		La dite Ève m’aperçut à l’instant où je m’apprêtais à les saluer, 																																														
+		car l’absence des pattes et des bras n’interdit pas la politesse. 																																														
+		Mais, à peine m’avait-elle aperçu qu’Ève me jeta des pierres. 																																														
+		« Tuyau d’apocalypse, handicapé de partout, disait-elle,																																														
+		nous avons des membres, tu n’en as pas, 																																														
+		ça suffit pour faire de toi une créature de seconde zone, 																																														
+		reste où tu es ».																																														
+		Adam, lui, jouait gaiement avec le membre supplémentaire dont Dieu l’avait pourvu,																																														
+		expliquant à Ève que le créateur n’avait pas fait sa jolie bouche pour des prunes. 																																														
+		L’air était idyllique et il me semblait que dans ce paradis, il y avait de la place pour tous. 																																														
+		Ève ne l’entendait pas ainsi. 																																														
+		Ce « sans bras ni jambes » est une insulte à notre race, disait-elle. 																																														
+		Elle écrasait de son pied le bout de ma queue, pivotant de droite et de gauche, 																																														
+		sachant que ce mouvement donnait une belle cadence à ses seins.																																														
+		 Moi, j’en appelais à Dieu. Il nous fit différents, mais égaux, et j’attendais, je l’avoue, un geste de soutien.																																														
+		 Dieu pourtant s’en foutait :																																														
+		 « écoute, bestiole, ils sont comme ça, ces deux-là, disait-il, 																																														
+		un peu cons, faut pas te faire du mauvais sang, ils cognent et puis ça passe, 																																														
+		je ne vais tout de même pas remettre en cause la Genèse parce que deux abrutis te crachent dans la gueule ! »																																														
+		 Adam avait maintenant une autre idée en tête. 																																														
+		Sachant déjà compter jusqu’à trois, 																																														
+		parce que le Très-Haut dans sa grande bonté l’avait doté de capacités pas banales, 																																														
+		et ayant judicieusement repéré trois orifices chez Ève,																																														
+		l’homme se demandait comment d’un seul membre occuper simultanément trois trous, 																																														
+		question lancinante qui taraude la moitié mâle de l’humanité depuis les origines et reste toujours sans réponse aujourd’hui. 																																														
+		Ève voulait sa collaboration pour me lyncher.																																														
+		Adam négociait ferme. Il lui mit le marché dans la main : d’abord on baise, ensuite on lynche.																																														
+		Ève était d’avis inverse : d’abord on lynche, ensuite on baise.																																														
+		 On le voit, le débat était démocratique. 																																														
+		Mais le marché, toujours dans la main d’Ève, commençait à frémir dangereusement. 																																														
+		Si bien qu’arriva ce qui devait arriver : Adam explosa sur Ève 																																														
+		et je pus ainsi foutre le camp en douce. 																																														
+		Le gaspillage de semence mit Dieu dans une colère noire.																																														
+		Il chassa Adam et Ève de son paradis.																																														
+		Après, ils eurent des enfants. On raconte qu’un des fils a liquidé l’autre. 																																														
+		C’est vraiment merdeux comme commencement.																																														
+																																																
+40	1		GO					Regarde la personne en face de toi et dit :	Bruit d'une salle de restaurant	"GIF de ""SIRI"""																												tentation	intimite	plaisir	succomber	posture						
+		JE VOUS ENVIE	GO						""""																																							
+			GO					Si elle exquice un sourire, bravo ! Dis à présent sans la lâcher du regard :	""""	GIF qui applaudit																																						
+		VOUS toute votre personne n'est que DIGNITÉ	GO						""""																																							
+		MOI c'est un costume qui ne me va pas la DIGNITÉ	GO						""""																																							
+		ça me serre de partout	GO						""""																																							
+		un horrible corset qui donne de la douleur la? ou? on attend le plaisir	GO						""""																																							
+			GO					Alors ? Tu as son attention ?	""""	"GIF de ""SIRI"""																																						
+			GO					Bravo ! Ça semble bien parti ! Continue :	""""	GIF qui applaudit																																						
+		Je ne me moque pas de vos sentiments	GO						""""																																							
+		ils sont profonds généreux comme votre intelligence	GO						""""																																							
+			GO					Tout se joue maintenant, il faut que tu sois convaiquant !	""""	GIF d'un cœur qui bat																																						
+		Pas une seconde je n’oublie les accords qui NOUS ont fait vibrer	GO						""""																																							
+		grand dieu non	GO						""""																																							
+			GO					C'est la dernière ligne droite, articule bien maintenant :	""""	GIF d'un entraineur qui encourage																																						
+		Mais la tentation me fait toujours SUCC-OM-BER	GO						""""																																							
+		J'aime beaucoup SUCC-OM-BER	GO						""""																																							
+		Dire SUCC-OM-BER me fait déjà? SUCC-OM-BER.	GO						""""																																							
+			GO					Tend lui la main. Si elle la prend, bravo !	""""	GIF feux d'artifices																																						
+																																																
+41	1		GO						Son ambiance 																													masque	mort	deuil	photo	souvenir	vie	poussiere	cycle	recit		
+		Une bohémienne m'a dit un jour que je vivrais longtemps,	GO				Circulation dans l'espace																																									
+		mais jamais assez vieux pour atteindre le dernier masque.	GO																																													
+		Sur le moment, je ne voyais pas ce qu’elle voulait dire.	GO																																													
+		Puis, à l’enterrement d’un ami,	GO																																													
+		j’ai compris.	GO				Arrêt																																									
+			GO					silence																																								
+		Même mort, on tient encore un rôle.	GO																																													
+			GO					silence																																								
+		Dans la mémoire de ceux qui suivront ma dépouille, je serai plus vivant que mon cadavre.	GO																																													
+		Et plus tard, 	GO																																													
+		celui qui regardera ma photographie, accrochera à mes yeux ouverts les lambeaux de son histoire à lui, 	GO																																													
+		il me fera un masque nouveau. 	GO																																													
+		Nos masques vivent plus longtemps que nous.	GO				À l'oreille d'une personne 	Chuchotement																																								
+																																																
+42	1	Entre nous, 																																				chaos	blessure	desillusion	bilan	confession	vide					
+		je pense que l'agression de l'autre jour m’a foutu un coup au moral !																																														
+		Je me sens écoeuré, fatigué de nous-mêmes. 																																														
+		J'essaie de mettre bout à bout tous les actes qui nous composent, 																																														
+		j'essaie de faire l'addition de ce que nous pouvons et de ce que nous ne pouvons pas,																																														
+		de ce que nous aurions dû faire et que nous n'avons pas fait, 																																														
+		et j'arrive à un terrifiant fouillis.																																														
+																																																
+43	1	Jeannette : 																																				stylé	imitation	corps	tableau	vie						
+							Il-elle imite :  																																									
+		« Se tenir sur la falaise face à la mer, 																																														
+		accepter vent et pluie, 																																														
+		bouger le corps pour bien faire voir au grand large qu'on est en vie. » 																																														
+							fin de l'imitation																																									
+		Ah, c’est quelqu’un Jeannette !																																														
+																																																
+44	2	Description de la femme qui arrive :														lève toi et marche																						concert	echec	mepris	regard	desillusion	invisible	son				
+		C’est une infra note dans le concert de la vie,  																																														
+		personne ne l’entend.																																														
+		Une oreille absolue n’arriverait pas à la repérer.																																														
+		Elle le sait, agite les bras, remue le derrière,																																														
+		paraffine ses lèvres, montre ses seins, diminue son nez,																																														
+		redresse son menton : 																																														
+		inutile, 																																														
+		un silence fait plus de bruit.																																														
+																																																
+45	4		GO				Tu rêves d'être chanteur.se d'opéra. 									Tu t'asseois dans le public.									Tu t'asseois dans le public.									Tu t'asseois dans le public.				musique	concert	reve	prophete	singulier/pluriel						
+			GO				C'est ta première répétition publique .									Tu assistes à une répétition de La Flûte enchantée.									Tu assistes à une répétition de la Flûte Enchantée.									Tu assistes à une répétition de La Flûte enchantée.														
+			GO				Tu es a Reine de la nuit.																																									
+			GO				Tu te places au centre de la scène, telle une diva.																																									
+			GO				Tu déclames cette phrase à l'assistance comme pour l'avertir d'une tragédie.																																									
+		Le violon sonne dans la nuit. 	GO																																													
+			GO				Tu entames un playback avec beaucoup de sérieux, dès que le morceau commence.																																									
+			GO						LaReineDeLaNuit																																							
+			GO				A la fin du chant, tu adresses cette phrase au public, avec mélancolie. 									Applaudir ou tousser de plus en plus fort.									Tousser de plus en plus fort									Applaudir ou tousser de plus en plus fort.														
+		Le rêve passe. 	GO																																													
+			GO				Tu chuchotes la dernière phrase puis tombe au sol au ralenti.																																									
+		Je suis le rêve.														Se frotter violemment les yeux sous les lunettes.									Chercher à se déboucher l'oreille avec le doigt.					GO				Enlever ses chaussures et partir en catimini.														
+																																																
+46	1																																					viol	degout	fort/faible	violence	temoignage	survie					
+							Une femme s'assoit dans le public. Elle s'adresse aux spectateurs.					GO				Un homme s'assoit dos au public. Il est torse nu. Il est immobile.																																
+		C’est quoi, je me dis,	GO																																													
+												GO				L'homme commence à se gratter le dos.																																
+		Il venait de me renverser, je le sentais contre mon dos,/ soudain, j’ai compris : sa main remontait ma jupe,	GO																																													
+												GO				On voit l'os de l'omoplate qui ressort.																																
+		c’est pas possible, je pensais, ça ne va pas m’arriver, pas à moi,	GO																																													
+												GO				Il se gratte de plus en plus fort.																																
+		je ne sais plus si j’ai crié,	GO																																													
+		oui probablement, 	GO																																													
+		presque certain	GO																																													
+		je suis d’une nature fort peureuse.	GO																																													
+							Elle s'adresse à l'homme en face d'elle sur le plateau.		début du son.			GO				L'homme arrête de se gratter. Il se retourne pour faire face public./ Il regarde la femme dans les yeux.																																
+		Je me souviens de m’être retournée,	GO																																													
+		donc maintenant on était face à face,	GO																																													
+		lui sur moi, déjà entre mes jambes,	GO																																													
+		l’instinct joue énormément dans ces cas-là,	GO																																													
+		ma main cherchait quelque chose à agripper /et j’étais suffoquée par la puanteur du type dans mon cou,	GO																																													
+		un souffle de dément.   	GO																																													
+												GO				L'homme se lève de sa chaise.																																
+		Il s’est redressé pour sortir sa bite	GO																																													
+		et ma main	GO																																													
+		toute seule comme une grande	GO																																													
+		a trouvé ce qu’elle cherchait.	GO																																													
+									fin  du son			GO				L'homme se dirige vers la fenêtre. Il colle son visage à la fenêtre.																																
+		La tête du type s’est recollée à la mienne 	GO																																													
+		et il allait me pénétrer	GO																																													
+		quand je lui ai planté la fourchette dans l'oreille.	GO																																													
+																																																
+47	1	Comment dire ? 																																				illusion	musique	mythe	citation	representation	seVanter					
+		Je m’améliore. C’est pas encore vraiment ça, mais ça va déjà mieux, 																																														
+		c’est mieux, oui, plus fluide, plus coulant, plus aérien. 																																														
+		Pas encore triomphal,tu l’as remarqué.  																																														
+		J’avance, j’avance.																																														
+		(chante) « Hello darkness, my old friend / 																																														
+		I’ve come to talk with you again / 																																														
+		Avoue que ce début …  																																														
+		ce début …																																														
+		c’est comme un soleil qui se lève, voilà, 																																														
+		peux pas dire ça mieux que ça, ce que ça me fait, là profond,																																														
+		tout profond, 																																														
+		c’est paradoxal, c’est sûr, vu que le texte salue l’obscurité, mais bon,																																														
+		c’est comme ça, parfois on dit un truc et ça t’évoque le truc contraire. 																																														
+		« Hello darkness, my old friend / 																																														
+		I’ve come to talk with you again /																																														
+		 Because a vision softly creeping / 																																														
+		Left its seeds while I was sleeping / 																																														
+		Je suis encore très loin de la réussite,																																														
+		je dois travailler, travailler, la ligne mélodique est encore médiocre. 																																														
+		Je dois m’améliorer, si je veux que Juliette m’écoute jusqu’au bout, 																																														
+		qu’elle n’arrête pas après le premier couplet en disant « Simon et Garfunkel, c’est quand même mieux… » 																																														
+		enfin tu vois ce que je veux dire, je voudrais tellement que face à elle, ça chante comme dans ma tête, 																																														
+		parce que dans ma tête, c’est parfait tu vois,																																														
+		je colle complètement avec Simon et Garfunkel, je suis Simon et Garfunkel à moi tout seul,																																														
+		c’est beau dans ma tête, c’est beau, c’est digne d’elle.																																														
+							 (Il chante le premier couplet avec la version de Simon and Garfunkel en fond, s’arrête brusquement).		Simon and Garfunkel																																							
+		Tu vois, c’est mythique. 																																														
+		C’est comme ça que je voudrais qu’elle pense à moi. 																																														
+		Comme à quelqu’un de mythique.																																														
+																																																
+48	2	Qui j’aime dans le show-biz ? 																																				illusion	regard	representation	mythe	desir	musique	autorite	anonymat	ecrasement		
+		Madonna, Madonna aux mille visages. Je la vénère.																																														
+		Une pro jamais la même, toujours une autre : punkette, maîtresse sadomaso,																																														
+		mère modèle, militaire en uniforme, dégaine à la Dietrich, pute de luxe ! 																																														
+		Mon plus grand désir est de lui ressembler.																																														
+											Vous ? Lui ressembler ? 																																					
+											Mais vous n’êtes nulle part, pardon de vous le dire.																																					
+											Bonne réputation vaut mieux que parfums précieux, le vôtre empeste la débutante.																																					
+											Et vous ne ressemblez même pas à votre photo.																																					
+											Vous êtes nulle, mademoiselle, 																																					
+											ce serait abominable de vous laisser croire le contraire.																																					
+																																																
+49	4	Je propose Mozart.																																														
+											Ah, oui, Mozart.																																					
+																				Pourquoi pas Mozart en effet.																												
+																													Mozart, toujours Mozart !																			
+		Mozart ? Vraiment ?																																														
+											Pardon, Mozart c’est Mozart, non ? 																																					
+																				Mozart … m’oui, m’oui.																												
+																													Mozart, je suis pour.																			
+		Le grand, le très grand, le gigantesque, l’immense, l’inouï Mozart.																																														
+							Chantant : 									Chantant : 									Chantant : 									Chantant : 														
+		 Viva la liberta, la liberta viva. La liberta, viva, viva, viva la liberta, viva la liberta.									 Viva la liberta, la liberta viva. La liberta, viva, viva, viva la liberta, viva la liberta.									 Viva la liberta, la liberta viva. La liberta, viva, viva, viva la liberta, viva la liberta.									 Viva la liberta, la liberta viva. La liberta, viva, viva, viva la liberta, viva la liberta.																			
+											Don Giovanni !																																					
+																				Vous, Don Giovanni ? C’est grotesque, vous avez tout juste la séduction d’un garçon coiffeur. 																												
+																													Quoi qu’il en soit : Mozart ! Mozart ! Mozart																			
+									(On frappe trois coups)									(On frappe trois coups)									(On frappe trois coups)									(On frappe trois coups)												
+		C’est le commandeur ! C’est le commandeur qui frappe à la porte ! 																																														
+											Peut-être la mort qui vient nous chercher !																																					
+																				Ne riez pas avec ça.																												
+																													Finalement, je propose de choisir un autre musicien.																			
+		Oui, Mozart après tout … 																																														
+											Quelque chose de plus léger.																																					
+																				Voilà !																												
+																													Moins métaphysique.																			
+		Moins poudré.																																														
+											Moins vocalise.																																					
+																				Moins tralala.																												
+																													Moins bouche en cul de poule.																			
+		Mozart, c’est pas toujours ce qu’on dit que c’est. 																																														
+											Surfait !																																					
+																				Tout de même entre le requiem de Berlioz et le requiem de Verdi, le plus beau est celui de Mozart !																												
+																																																
+50	1	Le dernier film de Arnold Schwarzenegger lui a rapporté trente millions de dollars.																																				fort/faible	mepris	paternalisme	valeur	marchandage	regard	argent	ecrasement	provocation		
+		Faisons un petit calcul. 																																														
+		Si je mets le hamburger à 2 dollars 50, 																																														
+		je peux soutenir que Monsieur Arnold Schwarzenegger a gagné un hamburger par jour pendant plus de 12 000 ans.																																														
+		Visualisez, s’il vous plaît : 																																														
+		Arnold Schwarzenegger mange un hamburger par jour depuis l’apparition des mammouths. 																																														
+		C’est ça, l’éternité ! 																																														
+							tu te lève et tu désigne un joueur																																									
+		Vous, mon petit monsieur l’acteur, combien de hamburgers valez-vous ?																																														
+																																																
+51	1	« La voiture était là, Polo, faut pas me mentir, faut pas dire le contraire, Polo.																																				temoignage	couple	mensonge	angoisse	recit						
+		Tu l’avais garée dans l’autre rue, tu pensais que les voisins ne la verraient pas. 																																														
+		Ne me mens plus, Polo ne me mens plus. 																																														
+		C’est vrai, c’est vrai, j’ai posé des questions aux voisins, je n’ai plus confiance, Polo. 																																														
+		Je ne suis pas aussi sotte que tu le crois, 																																														
+		et aujourd’hui presque pas saoule du tout, j’espère que tu l’as remarqué. 																																														
+		Je sais que tu viens ici quand je n’y suis pas. Je le sais ! et… 																																														
+		Je pourrais te tuer, Polo … ».																																														
+		Enfin, je ne sais plus. 																																														
+		La femme rousse dit quelque chose comme ça, le  sens est correct, 																																														
+		j’ai oublié les mots exacts, en tout cas c’est à ce moment-là que … 																																														
+		J’ai chaud, passez-moi la bouteille.																																														
+																																																
+52	1	Redressez la tête. Le dos doit être droit. 					S'adresse à la personne présente sur scène d'un air concerné																															posture	mepris	rigide	fort/faible	paternalisme	education					
+		On ne fait pas une déclaration solennelle le dos voûté.					à la fin, un temps																																									
+		Redressez le menton.																																														
+		Tout part de la colonne vertébrale, la colonne est précieuse.																																														
+		La colonne recèle le secret. 																																														
+		L’édifice humain est dans la colonne, 																																														
+		et ce n’est pas vanité de se tenir droite sur le cheval qui passe et vous mène au succès.					à la fin, un temps																																									
+		Ça va ? Ça entre dans votre cervelle ? Pas trop compliqué ? 					d'un ton tout à coup très agacé/à la fin, un temps																																									
+		À la vérité, vous ne me semblez pas spécialement dégourdie. 																																														
+		Ne prenez pas cet air coupable, s’il vous plaît ! 																																														
+		C’est juste un constat et je sais que l’animosité personnelle nous rend médiocres,																																														
+		mais je dois quand même dire que vous êtes mal foutue, peu vive, empotée, 																																														
+		et probablement très moche au petit déjeuner.																																														
+																																																
+53	1	Vous voyez, j’affiche une allure particulièrement jeune. 																																				valeur	sophisme	notoriete	façade	hypocrisie	singulier/pluriel	paternalisme	discours			
+		C’est indispensable quand on a la charge de présenter les candidats. 																																														
+		Au début, je me forçais à une certaine originalité.																																														
+		Chaque candidat a sa valeur, je me disais, à toi de nommer cette valeur. 																																														
+		Je préparais donc mon speech au plus juste. 																																														
+		En fait, tout cela était inutile. 																																														
+		La réalité est plus simple. Ces gens-là sont interchangeables, 																																														
+		si bien qu’avec un stock de phrases préparées, en variant les associations de mots,																																														
+		vous arrivez à un résultat correct. 																																														
+		Le plus délicat de mon travail consiste pourtant à leur dire le contraire, et à le faire croire au public. 																																														
+		Oh, mes chéris, vous êtes uniques, singuliers,																																														
+		profondément vous-mêmes, si vrais, si vrais, oh mon dieu,																																														
+		vous êtes si vrais que j’en ai les larmes aux yeux, 																																														
+		on vous aime, on vous aime, tous ici nous vous aimons.																																														
+																																																
+54	1	Photo N° 30 : 	GO																																			chute	tableau	desir	education	prophete	mythe	recit	famille	mort	tentation	ecrasement
+		La chute d’Icare. 	GO																																													
+			GO							"Photo du tableau ""La Chute d'Icare"" de Gruber"																																						
+		J’ai neuf ans à peine.	GO																																													
+			GO				Marchez lentement dans l'espace / tout en continuant vos répliques   																																									
+		Ce matin d’anniversaire, / nous marchons dans une aube d’automne / aux feuilles de marronniers jaunies. 	GO																																													
+			GO						Une ambiance de foret																																							
+		Mon papa s’arrête,	GO																																													
+			GO				Arrêtez-vous																																									
+		me prend par la main,	GO																																													
+		me serre contre lui.	GO																																													
+			GO				Regardez vers le plafond / comme si vous regardiez / quelqu'un de plus grand que vous																																									
+			GO				Puis regardez les autres joueurs																																									
+			GO				Jouez l'étonnement																																									
+		C’est un comportement exceptionnel !	GO																																													
+			GO				Reprenez votre sérieux																																									
+		Habituellement, l’homme est	GO																																													
+		peu sentimental,	GO																																													
+		très pudique.	GO																																													
+			GO				Un silence																																									
+		Donc, moi, 	GO																																													
+			GO				Eteingnez votre père imaginaire / et posez votre tête contre son torse imaginaire																																									
+		tête contre sa poitrine.	GO																																													
+		Et lui	GO				Regardez vers le bas / comme si vous regardiez un enfant																																									
+			GO																																													
+		qui dit : 	GO				Prenez la voix de ce que vous imaginez être le père																																									
+			GO																																													
+		je dois te parler / de la souffrance infinie de l’homme / qui marche et ne peut pas voler . 	GO																																													
+			GO				Prendre la voix d'un.e enfant																																									
+		Voler ?	GO																																													
+		Voler comme les oiseaux ?	GO																																													
+			GO				Hochez la tête																																									
+			GO				Reprenez la voix du narrateur																																									
+		Il fait oui de la tête. 	GO																																													
+		Dit encore que	GO																																													
+			GO				Reprenez la voix du père																																									
+		Le plus grand tourment de l’homme / est de n’avoir que deux petits bras / pour saisir l’univers.	GO																																													
+		Regarde !	GO																																													
+			GO				Sortez de votre poche une carte postale imaginaire																																									
+			GO				Montrez là aux autres joueurs																																									
+			GO				Reprenez la voix du narrateur																																									
+		Sort de sa poche	GO																																													
+			GO				brandissez bien haut votre carte postale imaginaire																																									
+		une carte postale.	GO																																													
+		Le peintre Bruegel a peint ce tableau :	GO																																													
+		La chute d’Icare.	GO																																													
+		Dit soudain : 	GO																																													
+			GO				Reprenez la voix du père																																									
+		Icare,	GO																																													
+		c’est moi. 	GO																																													
+		Je souffre d’exiguïté.	GO																																													
+		Je suis enfermé 	GO																																													
+		dans une 	GO																																													
+		boîte.	GO																																													
+		Je veux l’envol,	GO																																													
+		je veux me voir voler,	GO																																													
+		voir la boîte où je suis enfermé,  	GO																																													
+		voir	GO																																													
+		dans quel univers cette boîte m’enferme.	GO																																													
+			GO				Regardez votre père imaginaire et jouez l'étonnement / vous ne comprenez pas ce qu'il raconte																																									
+			GO				Prenez la voix du père et prenez un ton explicatif																																									
+		L’aigle bat joyeusement des ailes	GO																																													
+		parce qu’il saisit l’ensemble et le détail / d’un même coup d’oeil. 	GO																																													
+		Je l’envie. 	GO																																													
+			GO				Regardez votre père / vous ne comprenez toujours pas																																									
+			GO				Prenez la voix du père et continuez d'expliquer      																																									
+		Prends le monde	GO																																													
+		et,	GO																																													
+		devant lui,	GO																																													
+		pose un trou de serrure,	GO																																													
+			GO				Un silence																																									
+		que vois-tu ?	GO																																													
+			GO				Hochez la tête en regardant en l'air / Vous ne comprenez toujours pas 																																									
+			GO				Reprenez la voix du père																																									
+		La portion du monde qui correspond au trou de serrure. 	GO																																													
+			GO				Faites un rond avec votre main / et mettez le devant votre œil / comme si vous regardiez à travers																																									
+		Celui qui se fixe au sol est un trou de serrure. 	GO																																													
+			GO				Un silence																																									
+		Du monde, il sait ce que savent les trous de serrure.	GO																																													
+			GO				Un silence / Regardez les autres joueurs																																									
+		Icare a volé vers le ciel parce qu’il refusait d’être un trou de serrure.	GO																																													
+			GO				Vous comprenez enfin : regardez les autres joueurs / tout sourire / en hochant la tête																																									
+			GO				Reprenez votre déplacement dans l'espace / vous êtes de nouveau le narrateur																																									
+			GO				Asseyez vous sur la table en regardant au loin / comme devant une toile / sur le banc d'un musée																																									
+		Plus tard,	GO																																													
+		on s’est rendu au musée	GO																																													
+			GO						Une ambiance de musée																																							
+		pour voir la toile 	GO																																													
+			GO				Pointez la toile du doigt / vous êtes heureux.se de la voir enfin 																																									
+		en vrai. 	GO																																													
+			GO				Jouez la déception																																									
+		Dans le tableau de Bruegel,	GO																																													
+		Icare est presque ignoré,	GO																																													
+		comme vous le voyez.	GO																																													
+			GO							Photo zoomée d'Icare																																						
+		Ces jambes qui sortent de l’eau :	GO																																													
+		tout petit,	GO																																													
+		quasi ridicule, n’est-ce pas ?	GO																																													
+		Et personne pour s’en occuper.	GO																																													
+		Le paysan qui laboure,	GO																																													
+			GO							Photo zoomée du paysan																																						
+		le pécheur,	GO																																													
+			GO							Photo zoomée du pêcheur																																						
+		le marin :	GO																																													
+			GO							Photo zoomée du marin																																						
+		rien,	GO																																													
+			GO				Un silence																																									
+		personne ne voit le malheureux Icare, 	GO																																													
+		Tout le monde s’en fiche,	GO																																													
+		chacun vaque à ses occupations.	GO																																													
+			GO				Un silence																																									
+			GO				Regardez votre père imaginaire																																									
+			GO				Prenez la voix d'un.e enfant																																									
+		Tu vas mourir,	GO																																													
+			GO				Reprenez votre voix de narrateur																																									
+		j’ai dit à Papa ?	GO																																													
+			GO				Reprenez la voix du père																																									
+		Mourir ?	GO																																													
+			GO				Reprenez la voix de l'enfant																																									
+			GO				Jouez l'inquiétude																																									
+		Si tu es Icare,	GO																																													
+		et que Icare,	GO																																													
+		c’est lui …	GO																																													
+			GO				Reprenez la voix du narrateur																																									
+		Il me coupe,	GO																																													
+		impérial	GO																																													
+		« La nature de l’homme n’est pas immuable. 	GO																																													
+		L’Homme n’est devenu l’Homme / qu’en ne restant pas ce qu’il était.	GO																																													
+		Et il ne restera Homme / qu’à la condition de changer ce qu’il est, fils. 	GO																																													
+		Je veux voler, voler, pas chuter ».	GO																																													
+			GO				Un silence																																									
+			GO				Regardez les autres joueurs 																																									
+		Plus tard j’ai compris / que des hommes de peu d’obstination / tenaient mon père pour un charlatan, 	GO																																													
+		un être vantard	GO																																													
+		qu’ils n’auraient voulu fréquenter pour rien au monde.	GO																																													
+			GO				Jouez la colère																																									
+		Vous avez tort,	GO																																													
+		vous,	GO																																													
+		les tièdes,	GO																																													
+		les incrédules ! 	GO																																													
+		Mon père avait le courage de ses désirs. 	GO																																													
+			GO				Un silence																																									
+			GO				Reprenez votre déambulation dans l'espace																																									
+		Le jour vint où il voulut démontrer au monde entier / qu’il était Icare	GO																																													
+		sans la chute.	GO																																													
+		Voler ?	GO																																													
+		Oui, il volerait,	GO																																													
+		et aux yeux du monde entier !	GO																																													
+			GO				Un silence																																									
+			GO				Arrêtez vous pour faire bien face aux autres spectateurs : /  ils sont votre assemblée																																									
+		Les semaines de préparation furent denses,	GO																																													
+		les cartons d’invitation lancés au gratin de la science et de la presse.	GO																																													
+		Le grand moment arrive.	GO																																													
+		Papa regarde le parterre des invités.	GO																																													
+			GO						Une ambiance de foule excitée																																							
+			GO				Prenez la voix du père																																									
+		« Je vous remercie	GO																																													
+			GO						La foule se tait, laissant place à une ambiance de foule chuchotante																																							
+			GO				Ayez un petit rire étouffé / vous venez de faire taire tout le monde !																																									
+		Je vous remercie d’avoir accepté 	GO																																													
+		d’être les spectateurs de mon ascension.	GO																																													
+		Reconnaissez pourtant 	GO																																													
+		que vous êtes venus comme des convives de la dernière heure,	GO																																													
+		des sceptiques	GO																																													
+		qui se présentent in extremis au banquet / alors que le maître de maison les attendait plus tôt, 	GO																																													
+		sûr qu’ils arriveraient dans l’emballement,	GO																																													
+		dans l’enthousiasme,	GO																																													
+		avec au coeur un désir fou pour la fête ;	GO																																													
+		et non comme des spectateurs énervés, 	GO																																													
+		fourbus par une journée qui leur pèse sur les paupières, 	GO																																													
+		des spectateurs aigres,	GO																																													
+		fermés,	GO																																													
+		plus prompts à rejeter qu’à prendre,	GO																																													
+		de mauvais spectateurs en somme,	GO																																													
+		des spectateurs sans talent, sans générosité,	GO																																													
+		qui ne méritent pas l’intérêt qu’on leur porte.	GO																																													
+			GO				Riez / c'était une blague																																									
+			GO				Reprenez amicalement, toujours avec la voix du père																																									
+		Oubliez votre incrédulité. 	GO																																													
+		Soyez des amis véritables,	GO																																													
+		partagez l’insensé avec moi. 	GO																																													
+		Dites oui à l’impensable. 	GO																																													
+		Pensez à la juste rétribution de votre présence ici :	GO																																													
+		j’y étais !  pourrez-vous dire,	GO																																													
+		j’y étais ! j’ai vu l’exploit, je l’ai vu, de mes yeux vu ! »	GO																																													
+			GO				Un silence																																									
+		Quelqu’un se lève, objecte	GO																																													
+			GO				Prenez la voix d'une personne très agaçante																																									
+		« Vous oubliez le pied du cosmonaute sur la lune. 	GO																																													
+		Réalisé	GO																																													
+		depuis longtemps	GO																																													
+		le rêve d’Icare,	GO																																													
+		mais sous une forme imprévue ! 	GO																																													
+		Six chevaux qui tirent une voiture	GO																																													
+		la font sûrement rouler plus vite qu’un seul, 	GO																																													
+		mais rien ne remplace le moteur,	GO																																													
+		et ce n’est pas en perfectionnant la bougie	GO																																													
+		qu’on est arrivé à l’électricité.	GO																																													
+		Pour faire l’oiseau, il fallait inventer quoi ?	GO																																													
+			GO				Un silence 																																									
+		L’avion ! 	GO																																													
+			GO				Un silence																																									
+		C’est fait ! Vous comprenez ?	GO																																													
+		Donc,	GO																																													
+		voici ma question : 	GO																																													
+		votre velléité d’envol n’apparaît-elle pas réactionnaire,	GO																																													
+		rétrograde,	GO																																													
+		puérile même ? »	GO																																													
+			GO				Reprenez la voix du narrateur																																									
+		Mon père fixe longuement son contradicteur.	GO																																													
+			GO				Reprenez la voix du père																																									
+		« Icare a volé	GO																																													
+		et a chuté,	GO																																													
+		c’est un fait indéniable.	GO																																													
+		Et Jésus	GO																																													
+		a réussi son ascension	GO																																													
+			GO				Levez l'index																																									
+		(en ayant recours a des moyens non homologués, il faut le préciser.)	GO																																													
+			GO				baissez l'index																																									
+		On dira donc : 	GO																																													
+		Icare tombe,	GO																																													
+		Dieu grimpe.	GO																																													
+		On dira : 	GO																																													
+		Dieu réussit,	GO																																													
+		là où l’Homme échoue.	GO																																													
+		Eh bien, c’est précisément ce que l’expérience / à laquelle je vais me livrer / entend réfuter.	GO																																													
+		Ah, il serait pratique de diviser le monde / entre les « Icare » et les « Jésus »,	GO																																													
+		et, pour être complet, chacun d’entre nous dans sa vie,	GO																																													
+		selon les moments, selon les situations,	GO																																													
+		peut être Icare et puis Jésus	GO																																													
+		ou Jésus et puis Icare, 	GO																																													
+		tant nous sommes faits d’une succession de chutes et d’élévations.	GO																																													
+		Pourtant ce serait cautionner le malentendu.	GO																																													
+		Non,	GO																																													
+		je ne vous laisserai pas croire que cette bipartition du monde me satisfait.	GO																																													
+		Serait-elle exacte que je la contesterais encore.	GO																																													
+		Donc,	GO																																													
+		entre le scepticisme repu de lui-même	GO																																													
+		et l’idéalisme de ceux qui croient l’envol réservé à la caste divine,	GO																																													
+		je veux inscrire la possibilité qu’un homme,	GO																																													
+		un homme tout bête,	GO																																													
+		moi ! 	GO																																													
+		réussisse là où régnait le privilège de Dieu,	GO																																													
+		et en aucun cas ne soit voué à subir le sort du malheureux Icare.	GO																																													
+			GO				Un silence																																									
+		Sur la page du ciel, devant vous, je vais maintenant écrire un texte nouveau. »	GO																																													
+			GO				étendez les bras comme pour qu'on vous mette un manteau / ou comme Jésus à vous de voir																																									
+			GO				Reprenez la voix du narrateur																																									
+		Maman qui entre	GO																																													
+			GO				Jouez la mère qui entre / elle est très stressée, anxieuse																																									
+			GO				Prenez la voix de ce que vous pensez être la mère																																									
+		« Tes ailes. Voici tes ailes.	GO																																													
+			GO				Reprenez la voix du narrateur																																									
+		(Elle aide papa à les fixer).	GO																																													
+			GO				Aidez votre mari imaginaire à fixer ses ailes imaginaires																																									
+			GO				Reprenez la voix de la mère																																									
+		Je ne sais pas si tu seras jamais un oiseau,	GO																																													
+		mais tu es un seigneur ».	GO																																													
+			GO				Reprenez la voix du narrateur																																									
+		Elle pleure,	GO																																													
+		elle l’embrasse. 	GO																																													
+		Mon père me prend dans ses bras	GO																																													
+		« Fils,	GO																																													
+		le rêve d’Icare	GO																																													
+		est ton héritage ».	GO																																													
+			GO				Prenez la voix d'un.e enfant																																									
+		Tu reviendras ? 	GO																																													
+			GO				Reprenez la voix du narrateur																																									
+		j’ai dit.	GO																																													
+			GO				Reprenez la voix du père																																									
+		« Je reviendrai te chercher.	GO																																													
+		Je te le promets,	GO																																													
+			GO				Un silence																																									
+		on fera le tour du monde en tandem ».	GO																																													
+			GO				Reprenez la voix du narrateur																																									
+		Je ris, il rit.	GO																																													
+		Le vol a mal tourné bien sûr.	GO																																													
+		Papa a grimpé sur la falaise,	GO																																													
+			GO				Un silence																																									
+		il a visé le soleil,	GO																																													
+			GO				Un silence																																									
+		a secoué ses ailes,	GO																																													
+			GO				Un silence																																									
+		s’est lancé, 	GO																																													
+			GO				Un long silence																																									
+		s’est écrasé sur les vagues.	GO																																													
+		Après sa chute, sa voix bruissait encore dans les nuages	GO																																													
+		 « Je survolerai la terre,	GO																																													
+		 je nommerai les infamies que je vois, 	GO																																													
+		je nommerai aussi la beauté du monde ».	GO																																													
+																																																
+55	1	 La forêt est plus intelligente que toi.																																				prophete	revolution	mort	scientifique	perspective	nature	hypocrisie				
+		La forêt est plus obstinée que toi.																																														
+		La forêt est plus forte que toi.																																														
+		La forêt existait longtemps avant toi et existera longtemps après toi.																																														
+		Si l’être humain disparaissait de la planète,																																														
+		-Il est capable d’y arriver, il est assez bête pour ça !-																																														
+		si l’être humain disparaissait de la terre, combien de temps faudrait-il à la forêt pour reprendre ses droits ?																																														
+		Combien de temps faudrait-il pour que New York																																														
+		-Par exemple !-																																														
+		redevienne une forêt ?																																														
+		New York avant de devenir New York était une forêt.																																														
+		Homme tu es poussière et tu retourneras en poussière, forêt tu es forêt et tu redeviendras forêt.																																														
+		Hé, où vas-tu ?																																														
+		On ne t’agresse pas.																																														
+		On pose des questions, c’est tout.																																														
+		Reste.																																														
+		Personne ne dit que c’est de ta faute.																																														
+		À Tchernobyl, après l’accident nucléaire, on a rasé la forêt rouge – le rouge, c’était																																														
+		la couleur des arbres morts- et quelques années plus tard, d’autres espèces d’arbres ont recommencé à pousser, des races plus résistantes.																																														
+		Donc, tu vois, si toi, moi, nous les humains, on disparaît, la forêt s’en contrefout.																																														
+		Si tu rejoins notre combat, laisse ton altruisme forestier sur le bord de la route																																														
+		On n’en a pas besoin.																																														
+		Franchement les forêts se débrouilleront bien sans nous.																																														
+		Le forêt n’a pas besoin de nous, c’est nous qui avons besoin des forêts.																																														
+		Donc quand on se bat pour les forêts, on se bat pour nous, tu comprends ?																																														
+		Et n’imagine pas qu’on défend les forêts parce qu’on serait des toqués qui croient qu’ils parlent aux plantes, aux arbres et aux forêts.																																														
+		Et pire, que plantes arbres et forêt leur parlent.																																														
+		Ça, c’est dans les contes de fées ou les séries télé.																																														
+		Nous on se bat pour les forêts parce qu’on ne veut pas disparaître, c’est tout.																																														
+		Pas besoin de mélasse sentimentale pour accompagner tout ça.																																														
+		De toute façon, je pourrais même dire que objectivement la forêt est notre ennemi,																																														
+		parce que tu ne peux quand même pas considérer amicalement une nature qui se																																														
+		fout complètement de toi.																																														
+		Qui ne sait même pas que tu existes.																																														
+		La nature est juste un allié qui doit rester en vie si tu veux rester en vie.																																														
+																																																
+56	1		GO				Debout. Tendu par l'attente.																																									
+		J’attends. 	GO																																			pathologie	travail	nature	angoisse	provocation	violence	regard				
+		Mon problème dans la vie est d’apparaître. 	GO																																													
+		Je bourgeonne, je voudrais fleurir, 	GO																																													
+		mais la lumière me fuit, je ne la capte pas naturellement. 	GO																																													
+		Une grande main doit me propulser.  Je brille si on me fait reluire.	GO																																													
+		 Je suis un jeune cuivre, je peux donner tout mon éclat si le doigt de Dieu me frotte le dos !	GO				La DRH t'invite à t'assoir en face d'elle.																																									
+		Mais la DRH, là, me laisse à peine ma chance. Une petite ratte au poil sec.	GO				Elle te regarde.																																									
+		Une femelle misérable. La suffisance est son cancer. 	GO																																													
+		Elle se chierait dessus qu’elle en serait encore ravie. 	GO																																													
+		Ils ne vont pas me licencier tout de même ? 	GO																																													
+		Je m’affole probablement pour rien,	GO				Adresse-toi à elle. 																																									
+		 c’est à cause des médicaments que je prends.	GO																																													
+																																																
+57	1	Le meurtre est évidemment une grande école de vie, passez-moi le paradoxe.																																														
+		 Supposons que pour sortir de l’enfance chacun accomplisse un meurtre,																																														
+		 l’Humanité serait autrement meilleure.																																														
+		 Plus d’innocence !																																														
+		 Et plus d’illusions : on saurait dès le début qu’on est un meurtrier,   																																														
+		et que l’autre est aussi un meurtrier.																																														
+		Du coup, on deviendrait prudente, mesurée, 																																														
+		on ne se ferait plus mettre comme des babouines un jour de grand rut parce qu’un pneu vient de crever 																																														
+		et qu’un champion de l’arnaque vous sort un cric de son pantalon,																																														
+		vous enlève ce qu’il faut et vous répare le trou en deux coups de cuiller à pot.																																														
+																																																
+58	2								bruit de trains qui roulent lentement sur des vieux rails									bruit de trains qui roulent lentement sur des vieux rails																				politique	voyeur	mort	prétention	perspective						
+							Sous un pont ferroviaire, à l'abris du regard des autres, /vous voyez l'autre qui vous attend.									Sous un pont ferroviaire, à l'abris du regard des autres, /vous voyez quelqu'un qui s'approche.																																
+							Allez vers lui, mais tenez bien la distance /pour ne pas éveiller les soupçons									Vous le regardez discrètement, mais il ne le veut pas. /Vous restez là où vous êtes.																																
+							Ne regardez pas l'autre quand vous lui parlez									Vous l'écoutez, mais vous ne le regardez pas.																																
+		Réjouis-toi, /William est déjà mort et enterré ! 																																														
+		Je le sais. /J’ai surpris une conversation. 																																														
+		Je n’écoute pas aux portes, /mais une oreille qui veut entendre finit toujours par entendre,																																														
+		voilà ! 																																														
+							Rapprochez-vous légèrement à l'autre																																									
+		Et j’ai entendu  																																														
+		que William n’a pas le profil, /William																																														
+		pas le charisme, /William																																														
+		pas la couleur, /William																																														
+		pas le bon genre, /William																																														
+		n’a même pas le bon sexe :																																														
+							Mettez-vous face à l'autre et prenez-le par les épaules																																									
+		ils veulent une femme comme tête de liste pour les législatives. 																																														
+		Donc, adieu William, 																																														
+		et tes chances restent intactes.																																														
+							Regardez bien autour de vous, et partez discrètement.																																									
+																																																
+59	1	Je tourne en rond, 																																				pathologie	obsession	photo	nature	echec	corps	regard	temoignage			
+		je touche les murs, 																																														
+		je n’ouvre plus les rideaux, 																																														
+		je ne referme plus l’armoire,																																														
+		je ne me lave plus, 																																														
+		je ne mange plus, 																																														
+		je fume,																																														
+		je m’enferme chez moi,																																														
+		je ne vois plus personne,  																																														
+		je bois du café,																																														
+		j’y mets de l’alcool,																																														
+		je bois aussi l’alcool sans le café, 																																														
+		je bois à la bouteille, 																																														
+		 je tombe sur le sol, 																																														
+		je vomis, 																																														
+		je dors quelques heures,																																														
+		 je me réveille,   																																														
+		j’avale des tranquillisants,																																														
+		quelqu’un vient sonner,																																														
+		je n’ouvre pas																																														
+		on crie, 																																														
+		on frappe à la porte,																																														
+		 je ne bouge pas, 																																														
+		je perds la notion des heures,																																														
+		des jours, 																																														
+		on force ma porte,																																														
+		on m’interne, 																																														
+		je dors seize heures par jour,																																														
+		je reprends du poids,																																														
+		l’infirmière a de jolis cheveux roux,  																																														
+		la psychologue me prend souvent la main.																																														
+		-. Ça va mieux aujourd’hui ?																																														
+		-. Oui, ça va mieux.																																														
+		-. En tous cas vous avez une meilleure mine.																																														
+		Je sors de la clinique. 																																														
+		Je regarde à nouveau les arbres.																																														
+		 Je rentre chez moi. 																																														
+		La maison est propre.																																														
+		 Quelqu’un l’a nettoyée en mon absence. 																																														
+		Un soleil d’avril réchauffe les murs. 																																														
+		Et fichée sur la porte de la chambre avec une épingle, 																																														
+		toujours cette photo de toi, toi, toi, toi, toi, 																																														
+		cette élégance, que j’aime tant, 																																														
+		ton grand visage si largement divisé en deux, 																																														
+		ce paysage de cime et de gouffre qui te compose. Oui,																																														
+		c’est toi, c’est toi.																																														
+																																																
+60	1	Je suis une pénitente asservie au dieu amour. 																																				animal	obsession	cru	tentation	perversion	corps	sexe				
+		Si je peux être cette fille qui attend un signe du désir, 																																														
+		pourquoi ne le ferais-tu pas, ce signe ?   																																														
+		Fais-moi un signe.																																														
+		Il te faut une parade ?																																														
+		Tu as raison.																																														
+		 L'amour n'est presque rien sans la parade,  																																														
+		pas plus qu’une copulation biologique,																																														
+		une hygiène, qu'en ces temps malades, il vaut mieux demander à une poupée gonflable.																																														
+		Vois mon mouvement, vois mes chevilles.																																														
+		Le balancement de mes hanches. 																																														
+		La cambrure de mes reins. 																																														
+		En as-tu plein les yeux? 																																														
+		Mains fouillent. Langue goûte. Nez renifle. 																																														
+		Oui, oui, viens, viens, qu'à ton oreille je puisse donner ma salive !																																														
+																																																
+61	1	« Peuples du monde, notre heure est venue », dit le président, 																																				prophete	travail	politique	perspective	communication	illusion	discours				
+		et d’entendre ça en compagnie de 200 000 personnes a fait fondre mon amertume. 																																														
+		Fous le camp, la poisse, je me disais, 																																														
+		quoique, honnêtement, je ne voyais pas de liens concrets entre le destin du monde et ma situation de chômeur récent.																																														
+		Je n’étais pas aveuglé, pourtant, j’ai pensé : si un homme peut nous sauver, c’est celui-là. 																																														
+		Et j’ai crié son nom.																																														
+		On a cru que j’étais un de ses partisans, un fidèle de longue date																																														
+		alors que non, pas du tout, je le découvrais cet homme, 																																														
+		ou plutôt je découvrais ce qu’il me faisait découvrir en moi :																																														
+		qu’il me restait de l’appétit pour la vie, 																																														
+		que je n’étais pas l’exclu que je croyais, 																																														
+		qu’il y avait aussi pour moi une porte quelque part, 																																														
+		et cet homme pouvait m’aider à la trouver. 																																														
+		« Peuples du monde, notre heureest venue ! » Ça me booste !																																														
+																																																
+62	1	Je suis habituée à me battre, moi !																																														
+		 J’ai dû vaincre une grosse mère possessive,  personne ne m’a aidée,																																														
+		 une dévoreuse qui ne voulait que mon bien, une gluante d’amour. 																																														
+		La méduse pétrifiait mes amis, j’étais son loukoum, son baba au rhum, 																																														
+		je criais au secours au secours, 																																														
+		personne n’entendait, l’ogresse affective me coinçait contre sa bouche.																																														
+		Les embrassades parentales sont une terrible disgrâce pour un enfant. 																																														
+		Avale-moi, avale-moi, je pensais, chie-moi et tire la chasse,																																														
+		qu’on en finisse, je n’en peux plus d’être mâchée et remâchée. 																																														
+		Un jour, j’ai mis fin à tout ça avec l’aide d’un amoureux (je l’appelais my little canari). 																																														
+		Le volatile est vite reparti et beaucoup d’autres oiseaux lui ont succédé.																																														
+		Et aujourd’hui, si maman me regarde, elle doit se prendre une grande claque dans la gueule : 																																														
+		je suis meneuse de revue au Casino de Paris !																																														
+																																																
+		Aujourd’hui, j’ai verrouillé le passé, 																																														
+		je danse à pieds joints sur le ventre de maman.																																														
+																																																
+63	1	Reconnaissons que le fils de Dieu n’a pas rechigné à une certaine mise en spectacle de lui-même. 																																				prophete	mort	spectacle	representation	mythe	corps	ascension	pere	recit		
+		L’arrivée triomphale à Jérusalem, le dernier gueuleton avec les potes, 																																														
+		le procès très médiatique, l’épreuve olympique du calvaire, 																																														
+		et surtout ce coup de génie : la crucifixion.																																														
+		 Il y en avait du monde ! 																																														
+		Il n’a pas décidé de disparaître discrètement.																																														
+		 Le Christ est mort en plein jour, à 3 heures de l’après midi, au vu et au su de tous.																																														
+		Une surprenante bascule de lumière a souligné l’agonie,																																														
+		comme le raconte l’évangile et, détail admirable, dans la douleur du sacrifice, 																																														
+		Jésus n’a pas oublié de placer la petite phrase qu’il avait préparée : « Père, père, pourquoi m’as-tu abandonné ? » 																																														
+		Travail de pro, évidemment. Marché des âmes garanti pour deux mille ans.																																														
+		Il y a là un exemple à suivre.																																														
+																																																
+64	1	Mon cher fils, 																																				famille	communication	argent	valeur	mere	façade	education	pere			
+		je suis bien contente que tout est arrangé pour ton diplôme. 																																														
+		Tu ne me dis pas si tu as eu le mandat de quinze cents francs que j’avais envoyé.																																														
+		Quant à moi, j’ai réglé Vallin pour l’électricité. 																																														
+		Pour le moment on fait les cartons en vue du  déménagement, 																																														
+		 pourvu que ce soit la dernière fois.																																														
+		Monsieur Delmez a été très chic avec nous, 																																														
+		il remet à neuf le lavoir, la chambre de derrière et repeint la façade.																																														
+		On est bien content, ce sera toujours ça de gagné.																																														
+		Le temps ici s’est refroidi assez bien, il avait hier gelé à glace… 																																														
+		papa semble parler un peu mieux, mais il ne supporte pas encore bien ses dents, …																																														
+																																																
+65	1	Ah, non, ce n’est pas comme ça que vous allez marquer des points, moi, je vous le dis.																																				prophete	spectacle	violence	cru	corps	perversion	blessure	mort	jeu		
+		Vous êtes trop cérébral. 																																														
+		La continuelle méditation de l’esprit afflige le corps, jouissez !																																														
+		Enfermé dans la litanie de vos questions, vous laissez trop peu paraître votre face vulnérable, cela vous dessert.																																														
+		Dois-je vous taillader le dos au rasoir,																																														
+		vous bourrer les plaies de sel pour que vous le compreniez ? 																																														
+		Le public aime les animaux mutilés, les bébés qu’on écrase, 																																														
+		les mamans violées, les papas qui partent à la guerre, 																																														
+		alors de l’émotion, mon vieux, de l’émotion,																																														
+		crachez vos secrets, faites nous pleurer !																																														
+																																																
+66	2		GO				Agenouille-toi.					GO				Place-toi à environ 5 mètres de Joueur 1.																						rupture	travail	echec	couple	desillusion	rigueur	degout				
+			GO				Ne regarde pas le Joueur 2, mais le sol, quelques mètres devant toi.					GO				Arrête-toi.																																
+			GO				Ici se trouve une tombe.					GO				Tourne-lui le dos.																																
+		L’être que j'ai aimé n'est pas l’homme qui est là,	GO									GO				Tu es un fantôme.																																
+		je le vois très clairement.	GO																																													
+		L’être que j’ai aimé était une grande promesse et lui	GO																																													
+							Regarde Joueur 2.																																									
+		ça,	GO																																													
+							Regarde la tombe.																																									
+		là,	GO																																													
+							Regarde la photo au-dessus de l'épitaphe gravé en lettres dorées.																																									
+		c'est juste un petit journaliste	GO																																													
+		adipeux	GO																																													
+		qui fait tout ce qu'il peut pour qu'on le remarque,	GO																																													
+		pour qu'une conne comme	GO																																													
+			GO				toi.																																									
+		je l'étais le remarque, une conne qui l’a trouvé	GO																																													
+		épatant jusqu'à ce	GO																																													
+			GO				qu'il te frappe le crâne contre le sol.																																									
+		que l'idée contraire s'impose ! Nous en sommes là !	GO									GO				Tourne-toi.																																
+			GO				Regarde Joueur 2.																																									
+			GO				C'est toi qui l'a mis là.																																									
+		L'idiotie se transforme souvent en intelligence,	GO																																													
+			GO				Sois-en fière.																																									
+		la vie est beaucoup plus optimiste qu'on le dit finalement,	GO																																													
+		en tout cas l'idiotie de t'avoir aimé n'est pas une condamnation à vie,	GO																																													
+		ni à mort d'ailleurs,	GO																																													
+		c'est ça que je suis venue te dire.	GO																																													
+			GO				Tu vas mieux !																																									
+		Je pars.	GO																																													
+		Je voulais que tu l'apprennes ici,	GO																																													
+			GO				là où il ne peut pas t'échapper, comme...																																									
+		dans ce bureau, pendant que tu baises avec ton travail !	GO																																													
+			GO				Tu vas bien, alors dis-lui.																																									
+		Je pars,	GO																																													
+			GO				Laisse-lui ta dernière attache.																																									
+			GO				Ouvre ta main.																																									
+		adieu.	GO				Pars.		son_bague_1			GO				Regarde l'objet tombé.		son_bague_2																														
+																																																
+67	3	Attendez ! Je suis venu vous dire que vous êtes en grand danger.																																				mort	argent	prophete	organique	pere	chute	dialogue				
+											Quel est le danger ?																																					
+		Mon père l’a vu.																																														
+																				Vu plus que vu.																												
+											Qu’est-ce que vous avez vu ?																																					
+																				J’ai vu ton impatience bondissant au bord de la route.																												
+		Mon père a des visions. Elles disent toujours la vérité.																																														
+																				Je t’ai vu, toi.																												
+											Tu m’as vu, moi !																																					
+																				J’ai vu le rêve d’un homme vers le soleil.																												
+											Charlatan !																																					
+																				Je t’ai vu. Inquiet d’être lourd, si lourd. 																												
+																				Rêvant de la beauté de l’avion qui avale l’air et le recrache																												
+																				 et dans ce mouvement de rejet trouve la force de décoller.																												
+											Est-ce tout le mal qui va m’arriver ? Je me le souhaite !																																					
+		Il n’a pas fini de parler.																																														
+											Il est cinglé ton vieux.																																					
+																				Tu volais, fendais le ciel, et les nuages étaient plus doux que les seins de ta mère.																												
+																				 Tu montais, montais, le grand air de l’ambition grimpait avec toi. 																												
+																				Et puis voilà que le mouvement s’inverse. Tu te plies, tu es cassé. 																												
+																				La gueule du parfait cigare qu’on écrase au fond de son verre.																												
+																				 C’est la chute. La chute. Tu tombais ! 																												
+																				Tu tombais dans les brumes magnétiques. 																												
+																				Ça t’ouvrait la bouche, oh terreur, disais-tu, oh oui, terreur. 																												
+																				Et le trottoir se réjouissait déjà du choc. 																												
+																				Explosion, sac d’organes éventrés dans le matin pâle,																												
+																				celui-là, il aurait dû numéroter ses os, dit une grosse femme.																												
+											Assez ! Ça suffit !																																					
+																				Et ça gicle sur ses jambes, du sang rouge d’animal bien nourri, 																												
+																				et la merde aussi.																												
+																				À moins que ce soit sa merde à elle, à cause de la pétoche, 																												
+																				tu n’es pas passé loin il faut dire, mon pauv’ gamin !																												
+																				 Ho ! J’ai encore l’odeur de ton cadavre sur les mains.																												
+																																																
+											Ça suffit, vieille bête !																																					
+																				As-tu parfois fermé les yeux, pensé à ta mort ?																												
+											Voilà de l’argent pour fermer ta gueule.																																					
+																				Je te parle de ta mort.																												
+											Vous en voulez plus, c’est ça ?																																					
+		Il est pitoyable, ce mec.																																														
+																																																
+68	1	Je vous veux ce soir à ma table. 																																				mondanite	corps	mepris								
+		Arrogance et esprit seront au menu comme à l'habitude. 																																														
+		Soyez brillant, mon vieux, ça vous sera compté. Pour ce qui est du corps,																																														
+		moi, je marche dans le parc de mon château et ça me suffit. 																																														
+		Prenez exemple sur moi! Thorax parfait. Genoux parfaits. 																																														
+		Je pourrais vous sauter sur le dos.																																														
+																																																
+69	1	« Aaaaaah! Aaaaaah » 																																				photo	mort	organique	faitdivers	recit	cri	peur				
+		criait la concierge, sans penser à appeler la police. 																																														
+		Elle restait comme une statue, figée dans la surprise, avec son aaaaaaah comme seule réaction.																																														
+		 Faut toucher à rien, j’ai dit. 																																														
+		Du sang il y en avait forcément, une balle dans la tête ce n'est pas propre. 																																														
+		La concierge aimait Sonia.																																														
+		Cela explique les sanglots,																																														
+		ou alors elle a pensé que la mort la cherchait, elle, la concierge, 																																														
+		et que, faute de l'avoir trouvée, la mort avait pris la petite. 																																														
+		Quelqu'un meurt souvent à votre place, et on est plein de culpabilité et on ne sait pas pourquoi.																																														
+		 « J'ai si peur, disait-elle, j'ai si peur ». 																																														
+		Peur de quoi, je disais, c'est Sonia qui est morte, pas vous. 																																														
+		J'ai dû la gifler, elle allait tourner de l’oeil. 																																														
+		Le visage de Sonia était partout sur les murs, 																																														
+		on aurait dit que l'appartement était habité par ses photos, 																																														
+		Sonia à la mer,    																																														
+		Sonia nue dans l'ombre,																																														
+		Sonia et sa bouche,																																														
+		Sonia et ses seins.																																														
+		Finalement, c'est la vraie Sonia qui était de trop.																																														
+																																																
+70	1	On vivait à cinq dans deux pièces. 																																				famille	souvenir	degout	cru	organique	mort	confession	reve			
+		Mon souhait secret : que les autres meurent très vite ! 																																														
+		C’était mon espoir d'une seconde et mon remords de la journée entière.																																														
+		Je vous aime papa, maman, mes frères, mais mourez vite, laissez-moi au moins une chambre à moi.																																														
+		Soyez là et pas là.  																																														
+		Soyez présents et absents.																																														
+		Soyez visibles et invisibles.																																														
+		Papa est parti.   																																														
+		Les frères sont partis.																																														
+		La mère s'accroche.																																														
+		Je ne peux plus la voir. Je ne peux plus la sentir. 																																														
+		Le coeur dit encore oui quand je ferme les yeux et que je revois quelques images : 																																														
+		elle, pas encore soûle, pas encore laide, 																																														
+		pas encore graisseuse, à la terrasse de l'auberge dans les bois, avec la fraîcheur sous nos robes. 																																														
+		Ce que tu es devenue moche, maman. 																																														
+		Comme je suis triste. 																																														
+		Je ferme les yeux. 																																														
+		Oui, oui, je pense à toi telle que tu étais à la terrasse de l'auberge des bois.																																														
+																																																
+71	1	C’était « La belle femme », une statue monumentale d’un sculpteur connu. 																																				art	voyeur	obsession	corps	statue	regard					
+		Des seins, des fesses, des formes, une femme posée sur son cul, les jambes bien écartées, 																																														
+		si bellement femme qu’elle en effarouchait les notables qui habitaient le quartier.																																														
+		Leur promenade journalière les amenait place du marché où la statue était posée. 																																														
+		Horreur ! 																																														
+		Ils s’agitèrent. Ils protestèrent. 																																														
+		Firent sentir aux responsables politiques l’immense faute morale qu’ils étaient occupés à commettre en tolérant une pareille exhibition.																																														
+		 Bref, on l’enleva, cette statue, on la déroba aux regards. 																																														
+		« La belle femme » fut enfermée dans une cave. 																																														
+		Et c’est ce qui la sauva du désastre, figurez-vous. 																																														
+		Lorsque les nazis, occupés au pillage des oeuvres d’art, voulurent la déporter en Allemagne,  ils ne la trouvèrent pas. 																																														
+		Comme quoi, même des cons peuvent vous sauver !																																														
+																																																
+72	1		GO																																			meta	musique	corps	son	possibles	seVanter					
+			GO				Tenez vous droit/Croisez les mains dans votre dos																																									
+			GO				Vous n'avez pas le droit de bouger le bas de votre corps																																									
+		Prenons	GO																																													
+			GO				Silence																																									
+		une tête !	GO																																													
+			GO				Regardez tout le monde/Souriez/Choisissez quelqu'un dans l'assemblée et ne le lâchez plus																																									
+		Une tête comme la vôtre !	GO																																													
+			GO				Attendez que la personne ait une réaction																																									
+		Comme la mienne	GO																																													
+		Imaginez	GO																																													
+		qu'on puisse la fracturer/cette tête	GO																																													
+			GO				Regardez la personne que vous aviez choisi/Rassurez la																																									
+		sans violence	GO																																													
+			GO				Faites-lui un très grand sourire																																									
+		sans brutalité	GO																																													
+		Et là !	GO																																													
+		qu'on se mette à répertorier/les sons qu'on trouve dans cette tête	GO																																													
+		Les sons entendus dans une ville/par exemple…	GO																																													
+			GO				Regardez tout le monde/Plissez les yeux jusqu'à presque les fermer																																									
+		Avez-vous déjà pensé à ça ?	GO																																													
+		Pensé/au nombre de sons 	GO																																													
+		qui vous percutent/quand vous marchez une journée dans la ville ?	GO																																													
+		Sans compter les phrases/percues au hasard	GO																																													
+		Les comptines de l'enfance	GO																																													
+			GO				Silence																																									
+		Et les mélodies qui reviennent/par bouffées	GO																																													
+		les rengaines	GO																																													
+		VOILA !	GO																																													
+			GO				Prenez une grande inspiration																																									
+		Nous vivons chaque jour/avec un monde sonore dans la tête	GO																																													
+			GO				Souriez en parlant !																																									
+		Et maintenant	GO																																													
+		imaginez	GO																																													
+		que chacun d'entre nous puisse/exteriorisé tout ça	GO																																													
+		Ici	GO																																													
+		Nous sommes quelques uns	GO																																													
+		Et/à un signal donné	GO																																													
+		chacun ferait entendre à l'autre/l'univers sonore personnel avec lequel il vit	GO																																													
+		Quel programme !	GO				Regardez tout le monde/Attendez une réaction positive																																									
+			GO															On entend un concert de sons, bien choisis, bien montés, quelque chose comme une vraie création sonore que tous les participants disponibles, y compris le personnel hors scène, viennent écouter.									On entend un concert de sons, bien choisis, bien montés, quelque chose comme une vraie création sonore que tous les participants disponibles, y compris le personnel hors scène, viennent écouter.									On entend un concert de sons, bien choisis, bien montés, quelque chose comme une vraie création sonore que tous les participants disponibles, y compris le personnel hors scène, viennent écouter.												
+		Non ?	GO				Retrouvez la personne que vous aviez choisi et avancez vous vers elle																																									
+			GO																																													
+		On essaie ? 	GO				Prenez l'éléctrode sur votre droite et allez la poser sur sa tête																																									
+																																																
+73	1	elle s’en souvient, l’école d’à côté sonnait la rentrée, il faisait froid, ça, oui, il faisait froid. 																																														
+		Elle dit que les clients appellent cette femme la femme aux yeux gris,																																														
+		que cette femme aux yeux gris a un amant, qu’il la rencontre ici, au Verre Galant. 																																														
+		Ils prennent chaque semaine la même chambre. 																																														
+		Si cette chambre n’est pas libre, ils n’en prennent pas une autre. 																																														
+		Ils restent longtemps dans le café, se tiennent par la main, ne parlent pas.  																																														
+		Elle dit qu’ils s’aiment.																																														
+		Que même séparés par la petite table du Verre Galant leur corps sont ensemble. 																																														
+		Qu’on le sent à l’épaisseur de leur silence. 																																														
+		Que c’est un silence intime fait de tous les mots d’accouplement qu’ils ne se disent pas.																																														
+		 Elle dit qu’au début elle, - Jeanne -, venait au Verre Galant comme ça,																																														
+		sans aucun but. Mais qu’elle a vu la femme aux yeux gris et son amant 																																														
+		et que souvent elle revenait pour eux. Pour les voir. 																																														
+		Elle dit qu’un jour la femme aux yeux gris est venue seule.																																														
+		Que son amant n’était pas avec elle. 																																														
+		Que le lendemain elle était revenue et que la femme aux yeux gris elle aussi était revenue. 																																														
+		Que son amant n’était pas avec elle. 																																														
+		Elle dit que la femme aux yeux gris ne pleurait pas, 																																														
+		n’avait pas de tristesse apparente, n’avait rien en elle qui détonne. 																																														
+		Qu’elle était là comme si son amant y était aussi.																																														
+		 Que le silence qu’elle s’adressait à elle-même était un silence pour deux. 																																														
+		Elle dit que parfois la femme aux yeux gris prenait la chambre.																																														
+		Qu’elle y restait seule deux heures, parfois trois. 																																														
+		Elle redescendait heureuse et fatiguée comme il advient quand l’amour est puissant. 																																														
+		Elle dit qu’un jour, la femme aux yeux gris n’est plus venue au Verre Galant, qu’on a reconnu son visage dans le journal.																																														
+		Elle avait été arrêtée la veille. 																																														
+		On avait retrouvé le corps de son amant dans le fleuve.																																														
+																																																
+74	2	Je t’aime. 									2																											couple	organique	envolee	sexe	intimite	dialogue	emphase				
+		Si tu me mets en toi, je vivrai autant que tu vis. 																																														
+		Et quand tu mourras, je mourrai avec toi. 																																														
+		Je ne supporte plus l’espace qui nous sépare, fut-il celui, infime, 																																														
+		qui se glisse entre nos deux peaux quand collées l’une à l’autre, elles font l’amour.																																														
+		Ni le temps dans sa durée qui use ce que nous sommes,  qui nous rendra élimés, 																																														
+		fourbus à la fin de notre vie, 																																														
+		avec la certitude que le plus beau n’est pas éternel.																																														
+											Arrête. 																																					
+											C’est trop romantique, pour moi. Tu me fais peur. 																																					
+											Dis-moi juste d’enlever ma culotte, ça suffira. 																																					
+																																																
+75	2	Mon bureau ? 					regarde l'espace tout autour																															obsession	vide	rigueur	cage							
+		Un carré, 					regarde l'interlocuteur.			Un mur blanc																																						
+		avec une rigoureuse égalité des côtés.																																														
+		Je n’ai rien accroché aux murs, 					Un air de dégoût																																									
+		tout simplement parce que l’idée de « décoration »																																														
+		m’irrite.					Un air convaincu																																									
+		L’idée de décoration est minable, 					Avec l'assurance tel un.e spécialiste																																									
+		elle a quelque chose d’inessentiel,																																														
+		c’est une idée faible, démotivante.																																														
+		J’aime la rigueur des murs 																																														
+		blancs et nus.					Regarde le mur 																																									
+		Les murs blancs et nus m’hypnotisent.																																														
+		Un mur blanc et nu					Spirituel																																									
+		qu’on regarde longtemps vous aspire, 																																														
+		on disparaît, 																																														
+		on se dissout, 																																														
+		on se fait capter par la force irrésistible du vide.					S'adosse contre le mur																																									
+		Souvent 					Semble se fondre dans le mur																																									
+		j’ai besoin d’un appel comme celui-là.					Retour dans le réel																																									
+		J’ai besoin de mon mur nu et blanc. 					regarde l'interloctueur																																									
+		Qu’est-ce que tu veux ? 																																														
+											Rien. 					Regarde le mur			Un carré sur fond blanc- Malevitch																													
+											Je t’écoute, 																																					
+											c’est tout.																																					
+																																																
+76	2	 J’aurais voulu être un auteur confiant.																																				prophete	meta	bien/mal	recit	desillusion	emphase	theatre	misanthrope			
+		 J’aurais aimé écrire un théâtre généreux.																																														
+		J’aurais aimé que seuls certains mots aient le droit d’arriver jusqu’à la page, 																																														
+		des mots de lumière et de ciel étoilé, des phrases de foi qu’on écoute à genoux.																																														
+		 J’aurais aimé que le flux des bons sentiments vienne nettoyer les écuries du pessimisme,																																														
+		que l’espérance remplisse le coeur du public au sortir du spectacle.																																														
+		 J’aurais été un auteur utile, prophylactique !																																														
+		se débarrassant de sa mauvaise conscience en soufflant sur la mauvaise conscience des autres. 																																														
+		Deux moins font un plus,																																														
+		deux mauvaises consciences feront bien un début de positivité,																																														
+		en donneront en tous cas l’illusion.																																														
+		Ah, écrire un théâtre qui nie les égoïsmes,																																														
+		 un théâtre qui fasse que les spectateurs en sortant se regardent émus d’avoir été si bien à la hauteur du monde,																																														
+		de ses misères, de son injustice, de ses inégalités, de sa violence, de sa																																														
+		bassesse, 																																														
+		pendant deux heures, avant de reprendre le collier quotidien ; 																																														
+		d’avoir si bien communié dans la messe des mots généreux et des idées généreuses																																														
+		qu’une sorte d’apaisement moral s’ensuit, comme quand on a bien fait son devoir. 																																														
+		 J’imagine sans peine le réconfort qu’apporte un théâtre qui réconforte. 																																														
+		Fut-ce au prix d’un mensonge.																																														
+		Mais un mensonge généreux peut-il vraiment mentir ? 																																														
+		Mentir pour le bien, est-ce vraiment la même chose que mentir pour le mal ? 																																														
+		Qui pourrait soutenir ça ?																																														
+		Pourtant, je m’obstine à voir ce que je voudrais ne pas voir.																																														
+		Je m’obstine à dire que nous mangeons et que nous sommes mangés,																																														
+		je m’obstine à dire que la passion est sale et propre,																																														
+		que notre sécurité est notre vie et notre mort. 																																														
+		Tout homme est un ennemi et je suis l’ennemi de tout homme.																																														
+		Et je m’obstine à dire qu’amis nous ne le deviendrons qu’en sachant que nous arrachons l’amitié aux griffes de l’inimitié.																																														
+		Je n’ai aucune confiance dans l’humanité de mon semblable et je n’ai aucune confiance dans ma propre humanité.																																														
+		L’inhumain pourrait faire de moi un inhumain. 																																														
+		En revanche, il est facile d’être humain quand rien d’inhumain ne nous sollicite.																																														
+		 Si j’écrivais un théâtre généreux, je pourrais au moins séparer le camp du bien et le camp du mal,																																														
+		 j’y installerais une frontière nette, sans bavure, sans équivoque,																																														
+		 je la soulignerais d’un trait indiscutable, 																																														
+		ainsi je me placerais dans le camp du bien puisque je désigne celui du mal, 																																														
+		et j’y placerais les spectateurs avec moi et quand … 																																														
+																L’homme qui parle est arrêté par quelqu’un qui le bouscule pour prendre sa place et parler à son tour.																																
+77	2	Notre amie est morte. 																																				animal	chute	nature	violence	ami	desillusion					
+		Et maintenant qu’une partie d’elle-même a disparu et que l’autre vit encore dans notre coeur,																																														
+		 on peut penser qu’elle sait des choses que nous ne savons pas, mais est-ce important ? 																																														
+		À quoi peut nous servir ici ce qu’elle a appris là-bas ? 																																														
+		Le savoir des morts n’est compréhensible et utilisable que par les morts. 																																														
+		Nous, on reste seuls, orphelins.																																														
+		 Avant, on posait tout sorte de questions aux morts pour qu’ils nous tuyautent sur la vie de là-bas. 																																														
+		Tout ça est fini. Nous n’en avons plus l’usage.																																														
+		 Nos énigmes sont ici. Elles n’ont de clarté ni chez les morts ni sur la lune.																																														
+		 Si tu as des questions, ne les pose pas au ciel, ni aux arbres, ni à l’herbe, ni aux fleurs :																																														
+		la nature s’en fout royalement, elle nous recrachera quand elle en aura marre, 																																														
+		les animaux le savent qui attendent que nous redevenions animaux nous-mêmes, 																																														
+		animaux sans privilège, surtout pas celui d’occuper quelque sommet de la hiérarchie que ce soit. 																																														
+		Un jour, nous serons de la viande pour un prédateur que nous ne connaissons pas encore.																																														
+											Ça va ? Vous m’avez l’air bien sombre, aujourd’hui ?																																					
+																																																
+78	3	Allez-y.																																				fort/faible	musique	mepris	spectacle	travail	corps	regard	chute	jeu	violence	desillusion
+											Allez-y, quoi ?																																					
+		Brillez ! Brillez ! Faites quelque chose de brillant, étonnez-nous, inventez-nous quelque chose.																																														
+											Comme ça, tout de suite ?																																					
+		 Voulez-vous repasser dans dix ans ? Ou quand les poules auront des dents ?																																														
+		Voulez-vous rejoindre au plus vite le placard à balais d’où vous n’auriez jamais dû sortir ?																																														
+		 C’est votre affaire. Candidat suivant !																																														
+																se rassoit 									(Quelqu’un d’autre se présente. Chante quelque chose. Se trompe dans le texte)																							
+		Nul. Vous n’arrivez même pas à retenir votre texte.																																														
+																				Donnez-moi une deuxième chance.																												
+		Inutile.																																														
+																				J’exige une deuxième chance. La première fois, je suis nulle, la deuxième fois, je suis bonne.																												
+																																																
+		La seconde fois sera aussi nulle que la première. Vous êtes peu créative, ma petite.																																														
+		 Étriquée, ma petite. Comment pouvez-vous imaginer interpréter les paroles des autres, 																																														
+		vous, avec votre côté mécanique et la douteuse épilation de vos jambes.																																														
+		Oui, oui, oui, j’aperçois là un reste de pilosité insolente que l’écran fera voir au monde entier,																																														
+		 un poil indu dans le potage du soir. 																																														
+		Pensez aux familles scandalisées ! Votre négligence offensera 37 % d’audimat, les téléphones ne sonneront pas pour vous.																																														
+		On néglige un détail et l’échec vous mord le coeur.																																														
+																				Excusez-moi. Je ne savais pas que ce serait aussi dur. Aussi exigeant.																												
+		Mon dieu, ma petite, vous avez l’air d’une fesse qui pend.																																														
+																				J’ai tout à apprendre.																												
+		Oui, il y en a mille comme vous sur la liste.																																														
+																																																
+79	2	L’avenir ? 																																				fort/faible	musique	mepris	spectacle	travail	corps	regard	chute	jeu	violence	desillusion
+		L’avenir se passera comme ça : le blasphème sera décrété péché majeur, 																																														
+		toutes les religions se donneront la main pour nous intimider. 																																														
+		Catholiques intégristes, islamistes intégristes, juifs intégristes réclameront le respect de leurs croyances, 																																														
+		comme si les siècles passés ne nous avaient pas appris l’urgence de nous battre contre elles.																																														
+		 Les bûchers, les grands inquisiteurs renaîtront, l’esprit de superstition nous reviendra lourd et noir.																																														
+		 Et quand ils nous auront mis au pas, ils s’égorgeront entre eux, comme ils l’ont toujours fait, 																																														
+		comme l’ont toujours fait les guerres de religions, 																																														
+		parce qu’il n’y a qu’un Dieu et un seul, n’est-ce pas, 																																														
+		c’est le mien, et si tu dis le contraire, je te crève.																																														
+											C’est pas bien. C’est pas bien ce que tu dis. 																																					
+											Papa ne nous a pas élevés comme ça. Dieu est bon !																																					
+																																																
+80	1		GO				Iel s'approche de la table et s'y allonge comme sur une / table d'examen médical. 									Tu es assis en face d'ellui, regarde le.																						violence	sexe	fort/faible	obsession	corps	regard	intimite	animal	tentation	plaisir	
+		J’aime les hommes qui m’effraient. 	GO																																													
+			GO				Temps. Iel commence à glisser de la table jusqu'à ce que / sa tête pende.																																									
+		Celui-là avait un oeil d’aigle froid et royal,	GO													Prends des notes dans ta tête																																
+		l’éblouissement était si fort ! 	GO																																													
+		Et ce type sentait le souffre, il avait sorti ses dents	GO																																													
+		pour me sourire, une mâchoire me déchirait en deux. 	GO													Retiens les mots, les phrases																																
+			GO				Iel se redresse et fait face à l'homme																																									
+		Puis-je vous aider, 	GO																																													
+		a-t-il dit, 	GO																																													
+		c’était bref, catégorique, comme un désir qui vous poignarde. 	GO																																													
+			GO				Iel se lève, contourne doucement l'homme																																									
+		La violence fait parfois un bien fou. 	GO																																													
+			GO				Un contact dans le dos, qui s'accentue jusqu'à la fin																																									
+		Elle vous plante dans le dos les ailes de la résurrection. 	GO													Ne bouge pas 																																
+		Ma vie allait mal. 	GO																																													
+		J’étais un coeur sur le bord d’une route. 	GO													Tout va bien se passer																																
+		Le diable a reconnu sa proie.	NEXT																																													
+				GO			Iel sort.									Adosse toi à la table doucement ET ALLONGE TOI																																
+				GO																																												
+																																																
+81	4	 Grandiose.																																														
+											Le coeur de l’Europe.																											sexe	musique	politique	plaisir	violence	amour					
+																				Et nous ici pour accueillir tout cela.																												
+																													Des Polonais, des Finlandais, des Roumains et avec un effort, des Ukrainiens, des Géorgiens																			
+		des Turcs																																														
+											Sieg Heil ! Sieg Heil ! Sieg heil ! 																																					
+																				Nous ne devons plus jamais nous faire du mal, plus jamais.																												
+																													Nous sommes une famille dispersée qui doit maintenant se réunir. 																			
+		J’ai déjà fait l’amour avec un Bulgare, un Chypriote, 																																														
+		un Grec, un Maltais, je ne sais pas si on dit « Maltais »,																																														
+		un Luxembourgeois, deux Belges 																																														
+		(un flamand et un fédération Wallonie-Bruxelles, 																																														
+		mais aux dernières nouvelles ça ne compte toujours que pour un),																																														
+		puis un Allemand : mon défi 																																														
+		c’est de tester tous les spécimens de mâles européens avant 25 ans.																																														
+											Je suis Écossais. Est-ce qu’il y a déjà un Écossais sur votre liste ? 																																					
+																				492 millions d’habitants : notre devoir est de peser sur le destin du monde ! 																												
+		Sieg Heil, Sieg Heil, Sieg Heil !																																														
+											L’empire chinois, l’empire indien, l’empire russe, 																																					
+											 l’empire américain, l’empire européen :																																					
+											il y a de la bagarre mondiale en perspective.																																					
+																				Ma première femme m’a quitté à Venise, 																												
+																				j’ai eu un accident à Budapest,																												
+																				 j’ai retrouvé la mémoire à Luxembourg,																												
+																				 je me suis remarié à Chypre,																												
+																				 à Rome j’ai perdu la foi, 																												
+																				j’ai rencontré une Portugaise à Berlin,																												
+																				 mon gosse est né à Varsovie,																												
+																				 j’ai divorcé à Bruxelles,																												
+																				 j’ai découvert mon homosexualité à Amsterdam, 																												
+																				j’ai travaillé à Copenhague, à Stockholm et à Paris,																												
+																				je suis mort à Madrid et enterré à Helsinki 																												
+																				 qui est plus européen que moi ?																												
+																													Europe était une jeune nymphe, 																			
+																													s’il faut quelqu’un pour poser toute nue, je veux bien.																			
+		Trop de pauvres, trop de délaissés, trop de pas accueillis, trop de désenchantés.																																														
+											Trop de sourds																																					
+																				 trop d’aveugles																												
+							(Tous chantent l’hymne européen.)																																									
+		Freude, schoner Gotterfunken									Freude, schoner Gotterfunken									Freude, schoner Gotterfunken									Freude, schoner Gotterfunken																			
+		Tochter aus Elysium									Tochter aus Elysium									Tochter aus Elysium									Tochter aus Elysium																			
+		Wir betreten feuertrunken,									Wir betreten feuertrunken,									Wir betreten feuertrunken,									Wir betreten feuertrunken,																			
+		 Himmlische, dein Heiligtum!									 Himmlische, dein Heiligtum!									 Himmlische, dein Heiligtum!									 Himmlische, dein Heiligtum!																			
+		Deine Zauber binden wieder									Deine Zauber binden wieder									Deine Zauber binden wieder									Deine Zauber binden wieder																			
+		Was die Mode streng geteilt;									Was die Mode streng geteilt;									Was die Mode streng geteilt;									Was die Mode streng geteilt;																			
+		Alle Menschen werden Bruder,									Alle Menschen werden Bruder,									Alle Menschen werden Bruder,									Alle Menschen werden Bruder,																			
+		Wo dein sanfter Flugel weilt.									Wo dein sanfter Flugel weilt.									Wo dein sanfter Flugel weilt.									Wo dein sanfter Flugel weilt.																			
+																																																
+82	2						avance vers le centre 																																									
+							prends l'oreillette et mets la dans ton oreille																																									
+							tu es très fatiguée																																									
+							tu étires tes bras																																									
+							une personne vient																																									
+							laisse-toi faire																																									
+							elle va te guider, prendre soin de toi																																									
+							regarde les candidats assis autour de toi																																									
+							ils ne peuvent pas t'entendre																																									
+							l'oreillette te pose une question																																									
+							réponds																																									
+		Pourquoi la reconnaissance 																																				jeu	fort/faible	illusion	mepris	corps	representation	regard	argent	ascension	bien/mal	corrompu
+		ne va-t-elle jamais																																														
+		 à celle qui la mérite ?																																														
+		Pourquoi ? 					ton corps te fait mal																																									
+		Même mon propre frère 					il t'a blessée																																									
+		m’accuse régulièrement de travailler à l’encrassement des esprits					tu as mal partout																																									
+		parce que j’anime un jeu télévisé.					tu mens																																									
+		 Jugement lamentable.					l'oreillette te demande ce que tu lui as répondu, 																																									
+							rejoue la réponse																																									
+																																																
+		Je suis un fournisseur, moi, je fournis. 																																														
+		Je n’impose à tous 					étire tes bras																																									
+		que le goût de tous					touche ton dos																																									
+		et je suis couverte de sueur, 					dégoût																																									
+		pourquoi ? 					donne un ordre à la personne à ta droite																																									
+		La nuque me fait mal,					touche ta nuque																																									
+		pourquoi ?					donne un ordre à la personne à ta droite																																									
+																																																
+							étire ta nuque																																									
+							Regarde les candidats.																																									
+		Mon doigt désigne les candidats.					Pointe la femme en face de toi.																																									
+		 Je dépose					Approche toi d'elle.																																									
+		une goutte d’élixir sur leurs paupières. 					Regarde-la.																																									
+		Ils n’étaient rien,																																														
+		 je les fais rois, reines d’un jour.																																														
+																																																
+		 Je suis le sel de leur vie. 					Relève la tête.																																									
+		Eux pourtant me flairent comme des bêtes méfiantes					Recule un peu, vers le centre.																																									
+		 qui repèrent instinctivement leur ennemie. 					Balaie-les tous du regard.																																									
+		Il est vrai que je les méprise. 																																														
+		Et ils se haïssent entre eux, 					Arrête-toi sur l'un d'entre eux. Regarde-le dans les yeux.																																									
+		et ils se haïssent eux-mêmes.					Regarde son voisin.																																									
+		Mais qu’importe. 					Retourne toi.																																									
+		Une fois à l’écran,					Marche avec énergie vers le centre.																																									
+		nous sourions, détendus, obstinément gais,  					Élève la voix.																																									
+		rôdés aux meurtres de la vie, 					Fais de grands gestes avec tes bras.																																									
+		boute-en-train, euphoriques,					JOIE																																									
+		messieurs dames, bonjour ! 					Vite, tourne-toi sur ta gauche ! Parle à la caméra.																																									
+		Bienvenue, 					Élève la voix.																																									
+		bienvenue 					Souris.																																									
+		au grand jeu de la fortune !					Fais le tour du cercle en dansant.																																									
+																																																
+83	1	Voyons les choses ainsi, voyons le matin,																																				plaisir	desir	corps	photo	organique	intimite	nu	couple	amour 		
+		 la lumière pâle du soleil de novembre, 																																														
+		et les corps de ces deux-là chauffés dans la nuit d’amour, 																																														
+		un affrontement terrifiant, il faut le dire.																																														
+		Chacun cherche son plaisir dans l’autre,  chacun dit « je te prends », 																																														
+		et prenant, prend chez elle, chez lui, la part de vie qui lui revient.																																														
+		Prend dans l’avidité, par coups de ventre et de dents,																																														
+		prend, donne, et maintenant comme ceci et maintenant comme ça,																																														
+		 jambes et têtes mélangées, tout ça bouche ouverte pour crier et pour avaler, 																																														
+		et pour murmurer « mais surtout ne me dis pas ton nom »,																																														
+		 - et « surtout ne me dis pas le tien » -, - oui viens, viens encore -,																																														
+		 et les heures roulent d’un sexe à l’autre, battues, fendues, entrecoupées de courts repos.																																														
+		Et puis ça repart de plus belle.																																														
+																																																
+84	1		GO				s'asseoir face � un partenaire																															discours	couple	mepris	perspective	ecrasement	fort/faible					
+			GO				tourner le t�l�phone � la verticale																																									
+			GO				tourner le t�l�phone � l'horizontale																																									
+			GO				tourner le t�l�phone � la verticale																																									
+			GO				tourner le t�l�phone � l'horizontale																																									
+		Le sens !  	GO				regarder son partenaire dans les yeux																																									
+		Quel sens ? De quel sens parle-t-on ?	GO																																													
+		Dans un mot, il y a mille sens.	GO																																													
+		L��poque, le moment, le lieu, la situation o� le mot est prononc� / entra�nent avec eux des diff�rences.	GO																																													
+		 Parfois, infimes, je suis d�accord,	GO																																													
+		mais diff�rences quand m�me.	GO				Bref silence																																									
+			GO																																													
+		� Assiette �, � confiture �, � caf� � / prononc�s le matin ne sonnent pas pareils que	GO																																													
+		� assiette � � confiture � � caf� � prononc�s � minuit. 	GO																																													
+		L�assiette de minuit  a quelque chose / de plus mondain que l�assiette du matin,	GO																																													
+		la confiture semble �trange � cette heure	GO																																													
+		et le caf�,	GO																																													
+		certains d�entre nous qui le consomment le matin le rejettent le soir.	GO																																													
+		 C�est ainsi. 	GO				Tr�s affirm�																																									
+		Et, crois-moi, il en va de m�me pour les phrases. 	GO				"Insister sur ""crois-moi"""																																									
+		�mise par un black d�ici, un black d�Afrique,/ un arabe, un europ�en du nord ou un chinois, 	GO																																													
+		la m�me phrase se teintera de connotations diff�rentes voir oppos�es. 	GO																																													
+		L�expression � �tat d�Isra�l �  	GO				d�couper chaque mot 																																									
+			GO				bref silence																																									
+		n'a pas le m�me sens pour un Palestinien / et pour un Isra�lien.	GO																																													
+		Ni pour un militant des droits de l�homme / ni pour un raciste. 	GO																																													
+		Et dans plus d�un � je t�aime � prononc� dans le monde, / une oreille un peu pr�venue 	GO																																													
+		"peut facilement distinguer le "" je t'emmerde"" / qui court en arri�re fond."	GO																																													
+			GO				Bref silence																																									
+		 Mais pas toi.	GO																																													
+		Toi,	GO																																													
+		tu as l'�coute r�solument monos�mique.	GO																																													
+		Toi, tu n�entends pas plus loin que le bout de tes oreilles.	GO																																													
+		Finalement,	GO																																													
+		tu es le genre de type qui croit b�tement dominer le langage	GO																																													
+		quand il a dit qu�un oeuf est un oeuf. 	GO																																													
+		Et pas une seconde ne te vient � l'id�e que lorsque je te dis	GO																																													
+		� mon ch�ri,/ je suis d�sol�e,/ je rentre un peu tard �, 	GO				avec douceur																																									
+		tu dois entendre	GO																																													
+		� pauvre naze,/ si tu as le malheur de me demander d�o� je viens � cette heure,/ je t�en colle une �.	GO				avec douceur																																									
+																																																
+85	2	Je n’implore pas, je menace. 																																				revolution	mensonge	famille	mort	fort/faible	renversement	meurtre	politique	chute	condamnation	
+		Ne vous en déplaise, il ne viendra jamais le temps où nous accepterons la vieille fable :																																														
+		chacun a sa place sur le bateau, les uns aux commandes, les autres à la soute, 																																														
+		et malgré ces conditions différentes, nous avancerions ensemble vers un même but.																																														
+		 Foutaise ! Mensonge ! Un chien qui mange les miettes est nourri, mais il reste un chien.																																														
+		Je ne veux pas de ça pour moi, pour ceux que j’aime, mes enfants, mes semblables.																																														
+		 Je ne veux pas. Je vous menace, monsieur parce que vous me voulez du mal.																																														
+		 Votre libéralisme détruit notre existence.																																														
+											Allez-vous me tuer ?																																					
+		Oui, si le tribunal du peuple le décide.																																														
+																																																
+86	1	Déployez le tapis ! C'est un ami.																																				ami	hypocrisie									
+		 Il faut considérer cet homme comme un ami.																																														
+		Inscrivez dans vos cervelles : un ami nous rend visite. Un ami. 																																														
+		Vous aussi, je vous aime comme des amis.  																																														
+		Ne l'oubliez jamais.																																														
+		Ne m'obligez pas à vous le rappeler toutes les dix minutes.																																														
+																																																
+87	4		GO				Vous êtes le narrateur					GO				Vous êtes le père du narrateur					GO				Vous êtes le contradicteur					GO				Vous êtes la mère du narrateur														
+		Photo N° 30 :	GO																																													
+		La chute d’Icare.	GO																																													
+			GO							"Photo du tableau ""La Chute d'Icare"" de Gruber"		GO							"Photo du tableau ""La Chute d'Icare"" de Gruber"		GO							"Photo du tableau ""La Chute d'Icare"" de Gruber"		GO							"Photo du tableau ""La Chute d'Icare"" de Gruber"											
+		J’ai neuf ans à peine.	GO																																													
+			GO				Marchez lentement dans l'espace / tout en continuant vos répliques					GO				Marchez lentement dans l'espace / aux côtés du narrateur									Vous êtes spectateur de la scène / mettez vous à l'écart									Vous êtes spectateur de la scène / mettez vous à l'écart														
+		Ce matin d’anniversaire, / nous marchons dans une aube d’automne / aux feuilles de marronniers jaunies.	GO																																													
+			GO						LaReineDeLaNuit			GO																																				
+		Mon papa s’arrête,	GO						LaReineDeLaNuit							Arrêtez-vous		Une ambiance de foret									Une ambiance de foret									Une ambiance de foret												
+		me prend par la main,	GO				Arrêtez-vous		LaReineDeLaNuit			GO				Prenez la main du narrateur																																
+		me serre contre lui.	GO				Regardez votre père dans les yeux / Vous êtes désormais le narrateur enfant		LaReineDeLaNuit			GO				Serrez le narrateur contre vous / comme s'il était votre enfant																																
+			GO				Puis regardez les autres joueurs / avec étonnement		LaReineDeLaNuit			GO				Figez vous comme si vous étiez dans une photographie																																
+		C’est un comportement exceptionnel !	GO				Regardez simultanément votre père et les autres joueurs, vous êtes complètement surpris		LaReineDeLaNuit																																							
+			GO				Reprenez votre sérieux		LaReineDeLaNuit																																							
+		Habituellement, l’homme est	GO						LaReineDeLaNuit																																							
+		peu sentimental,	GO						LaReineDeLaNuit																																							
+		très pudique.	GO						LaReineDeLaNuit																																							
+			GO				Un silence		LaReineDeLaNuit																																							
+		Donc, moi,	GO						LaReineDeLaNuit																																							
+		tête contre sa poitrine.	GO				Eteingnez votre père imaginaire / et posez votre tête contre son torse imaginaire		LaReineDeLaNuit																																							
+		Et lui	GO						LaReineDeLaNuit			GO				Vous pouvez de nouveau vous mouvoir / regardez votre enfant dans les yeux																																
+		qui dit :	GO						LaReineDeLaNuit			GO	NEXT			Prenez la voix de ce que vous imaginez être le père																																
+			GO						LaReineDeLaNuit		je dois te parler / de la souffrance infinie de l’homme / qui marche et ne peut pas voler .	GO																																				
+		Voler ?	GO				Prenez la voix d'un.e enfant																																									
+		Voler comme les oiseaux ?	GO									GO				Faites oui de la tête																																
+		Il fait oui de la tête.	GO				Reprenez la voix du narrateur																																									
+		Dit encore que	GO									GO	NEXT																																			
+											Le plus grand tourment de l’homme / est de n’avoir que deux petits bras / pour saisir l’univers.	GO																																				
+											Regarde !	GO																																				
+											Sortez de votre poche une carte postale imaginaire	GO																																				
+		Sort de sa poche		NEXT							Montrez là au narrateur	GO																																				
+		une carte postale.	GO				Prenez la carte postale / et montrez là aux autres joueurs																																									
+		Le peintre Bruegel a peint ce tableau :	GO				brandissez bien haut votre carte postale imaginaire																																									
+		La chute d’Icare.	GO																																													
+			GO							"Photo du tableau ""La Chute d'Icare"" de Gruber"		GO							"Photo du tableau ""La Chute d'Icare"" de Gruber"		GO							"Photo du tableau ""La Chute d'Icare"" de Gruber"		GO							"Photo du tableau ""La Chute d'Icare"" de Gruber"											
+		Dit soudain :	GO										NEXT																																			
+											Icare,	GO																																				
+											c’est moi.	GO																																				
+											Je souffre d’exiguïté.	GO																																				
+											Je suis enfermé	GO																																				
+											dans une	GO																																				
+											boîte.	GO																																				
+											Je veux l’envol,	GO																																				
+											je veux me voir voler,	GO																																				
+											voir la boîte où je suis enfermé,	GO																																				
+											voir	GO																																				
+				NEXT							dans quel univers cette boîte m’enferme.	GO																																				
+			GO				Regardez votre père et jouez l'étonnement / vous ne comprenez pas ce qu'il raconte					GO																																				
+												GO				Prenez un ton explicatif																																
+											L’aigle bat joyeusement des ailes	GO																																				
+											parce qu’il saisit l’ensemble et le détail / d’un même coup d’oeil.	GO																																				
+				NEXT							Je l’envie.	GO																																				
+			GO				Regardez votre père / vous ne comprenez toujours pas					GO				Continuez d'expliquer																																
+												GO																																				
+											Prends le monde	GO																																				
+											et,	GO																																				
+											devant lui,	GO																																				
+											pose un trou de serrure,	GO																																				
+												GO				Un silence																																
+				NEXT							que vois-tu ?	GO																																				
+			GO				Hochez la tête / Vous ne comprenez toujours pas					GO																																				
+												GO																																				
+											La portion du monde qui correspond au trou de serrure.	GO																																				
+												GO				Faites un rond avec votre main / et mettez le devant votre œil / comme si vous regardiez à travers																																
+											Celui qui se fixe au sol est un trou de serrure.	GO																																				
+												GO				Un silence																																
+											Du monde, il sait ce que savent les trous de serrure.	GO																																				
+												GO				Un silence / Regardez les autres joueurs																																
+											Icare a volé vers le ciel parce qu’il refusait d’être un trou de serrure.	GO																																				
+			GO				Vous comprenez enfin : regardez les autres joueurs / tout sourire / en hochant la tête					GO																																				
+			GO				Reprenez votre déplacement dans l'espace / vous êtes de nouveau le narrateur					GO				Prenez votre enfant par la main / et amenez le devant la table																																
+			GO				Asseyez vous sur la table en regardant au loin / comme devant une toile / sur le banc d'un musée					GO				Asseyez vous auprès de votre enfant																																
+		Plus tard,																																														
+		on s’est rendu au musée																																														
+										Une ambiance de musée		GO						Une ambiance de musée			GO						Une ambiance de musée			GO						Une ambiance de musée												
+		pour voir la toile	GO				Pointez la toile du doigt / vous êtes heureux.se de la voir enfin																																									
+		en vrai.	GO				Jouez la déception																																									
+		Dans le tableau de Bruegel,	GO																																													
+		Icare est presque ignoré,	GO																																		Photo zoomée d'Icare											
+		comme vous le voyez.	GO							Photo zoomée d'Icare		GO							Photo zoomée d'Icare		GO							Photo zoomée d'Icare		GO																		
+		Ces jambes qui sortent de l’eau :	GO																																													
+		tout petit,	GO																																													
+		quasi ridicule, n’est-ce pas ?	GO																																													
+		Et personne pour s’en occuper.	GO																																													
+		Le paysan qui laboure,	GO							Photo zoomée du paysan									Photo zoomée du paysan									Photo zoomée du paysan									Photo zoomée du paysan											
+		le pécheur,	GO							Photo zoomée du pêcheur									Photo zoomée du pêcheur									Photo zoomée du pêcheur									Photo zoomée du pêcheur											
+		le marin :	GO							Photo zoomée du marin									Photo zoomée du marin									Photo zoomée du marin									Photo zoomée du marin											
+		rien,	GO																																													
+			GO				Un silence																																									
+		personne ne voit le malheureux Icare,	GO																																													
+		Tout le monde s’en fiche,	GO																																													
+		chacun vaque à ses occupations.	GO																																													
+			GO				Un silence																																									
+			GO				Regardez votre père																																									
+			GO				Prenez la voix d'un.e enfant																																									
+		Tu vas mourir,	GO																																													
+			GO				Reprenez votre voix de narrateur																																									
+		j’ai dit à Papa ?	GO																																													
+											Mourir ?	GO				Regardez votre enfant avec étonnement																																
+		Si tu es Icare,	GO				Reprenez la voix de l'enfant																																									
+		et que Icare,	GO									GO				Coupez la phrase du narrateur en lui mettant la main sur la bouche																																
+		Il me coupe,	GO				Reprenez la voix du narrateur																																									
+		impérial	GO								« La nature de l’homme n’est pas immuable.	GO				Prenez un air impérial (je sais pas non plus ce que ça eut dire démmerdez vous)																																
+											L’Homme n’est devenu l’Homme / qu’en ne restant pas ce qu’il était.	GO																																				
+											Et il ne restera Homme / qu’à la condition de changer ce qu’il est, fils.	GO																																				
+											Je veux voler, voler, pas chuter ».	GO																																				
+			GO				Un silence					GO				Un silence																																
+			GO				Regardez les autres joueurs					GO				Immobilisez vous de nouveau en pleine action / comme sur une photographie																																
+		Plus tard j’ai compris / que des hommes de peu d’obstination / tenaient mon père pour un charlatan,	GO																																													
+		un être vantard	GO																																													
+		qu’ils n’auraient voulu fréquenter pour rien au monde.	GO																																													
+			GO				Jouez la colère																																									
+		Vous avez tort,	GO																																													
+		vous,	GO																																													
+		les tièdes,	GO																																													
+		les incrédules !	GO																																													
+		Mon père avait le courage de ses désirs.	GO																																													
+			GO				Un silence																																									
+			GO				Reprenez votre déambulation dans l'espace																																									
+		Le jour vint où il voulut démontrer au monde entier / qu’il était Icare	GO																																													
+		sans la chute.	GO																																													
+		Voler ?	GO																																													
+		Oui, il volerait,	GO																																													
+		et aux yeux du monde entier !	GO									GO				Arrêtez vous pour faire bien face aux autres spectateurs : / ils sont votre assemblée																																
+			GO				Placez vous devnt votre père comme si vous étiez dans une assemblée														GO				Placez vous devnt votre enemi comme si vous étiez dans une assemblée					GO				Placez vous devnt votre mari comme si vous étiez dans une assemblée														
+			GO																		GO				Vous êtes très irrité d'être spectateur de cette conférence					GO				Vous êtes fière de lui														
+		Les semaines de préparation furent denses,	GO																																													
+		les cartons d’invitation lancés au gratin de la science et de la presse.	GO																																													
+		Le grand moment arrive.	GO																																													
+		Papa regarde le parterre des invités.	GO							Une ambiance de foule excitée		GO						Une ambiance de foule excitée			GO						Une ambiance de foule excitée			GO						Une ambiance de foule excitée												
+											Je vous remercie...	GO																																				
+			GO							La foule se tait, laissant place à une ambiance de foule chuchotante		GO						La foule se tait, laissant place à une ambiance de foule chuchotante			GO						La foule se tait, laissant place à une ambiance de foule chuchotante			GO						La foule se tait, laissant place à une ambiance de foule chuchotante												
+											Je vous remercie d’avoir accepté	GO				Ayez un petit rire étouffé / vous venez de faire taire tout le monde !																																
+											d’être les spectateurs de mon ascension.	GO																																				
+											Reconnaissez pourtant	GO																																				
+											que vous êtes venus comme des convives de la dernière heure,	GO																																				
+											des sceptiques	GO																																				
+											qui se présentent in extremis au banquet / alors que le maître de maison les attendait plus tôt,	GO																																				
+											sûr qu’ils arriveraient dans l’emballement,	GO																																				
+											dans l’enthousiasme,	GO																																				
+											avec au coeur un désir fou pour la fête ;	GO																																				
+											et non comme des spectateurs énervés,	GO																																				
+											fourbus par une journée qui leur pèse sur les paupières,	GO																																				
+											des spectateurs aigres,	GO																																				
+											fermés,	GO																																				
+											plus prompts à rejeter qu’à prendre,	GO																																				
+											de mauvais spectateurs en somme,	GO																																				
+											des spectateurs sans talent, sans générosité,	GO																																				
+											qui ne méritent pas l’intérêt qu’on leur porte.	GO																																				
+											Oubliez votre incrédulité.	GO				Riez / c'était une blague																																
+											Soyez des amis véritables,	GO				Reprenez amicalement																																
+											partagez l’insensé avec moi.	GO																																				
+											Dites oui à l’impensable.	GO																																				
+											Pensez à la juste rétribution de votre présence ici :	GO																																				
+											j’y étais ! pourrez-vous dire,	GO																																				
+											j’y étais ! j’ai vu l’exploit, je l’ai vu, de mes yeux vu ! »	GO																																				
+												GO				Un silence																																
+																																																
+		Quelqu’un se lève, objecte	GO									GO									GO				Levez vous et levez l'index vers le ciel / en signe d'objection																							
+																					GO				Prenez la voix d'une personne très agaçante																							
+																				« Vous oubliez le pied du cosmonaute sur la lune.	GO																											
+																				Réalisé	GO																											
+																				depuis longtemps	GO																											
+																				le rêve d’Icare,	GO																											
+																				mais sous une forme imprévue !	GO																											
+																				Six chevaux qui tirent une voiture	GO																											
+																				la font sûrement rouler plus vite qu’un seul,	GO																											
+																				mais rien ne remplace le moteur,	GO																											
+																				et ce n’est pas en perfectionnant la bougie	GO																											
+																				qu’on est arrivé à l’électricité.	GO																											
+																				Pour faire l’oiseau, il fallait inventer quoi ?	GO																											
+																					GO				Un silence																							
+																				L’avion !	GO																											
+																					GO				Un silence																							
+																				C’est fait ! Vous comprenez ?	GO																											
+																				Donc,	GO																											
+																				voici ma question :	GO																											
+																				votre velléité d’envol n’apparaît-elle pas réactionnaire,	GO																											
+																				rétrograde,	GO																											
+																				puérile même ? »	GO																											
+		Mon père fixe longuement son contradicteur.	GO									GO				Regardez longement et fixement / votre contradicteur avec suspicion																																
+											« Icare a volé	GO																																				
+											et a chuté,	GO																																				
+											c’est un fait indéniable.	GO																																				
+											Et Jésus	GO																																				
+											a réussi son ascension	GO																																				
+											(en ayant recours a des moyens non homologués, il faut le préciser.)	GO																																				
+											On dira donc :	GO																																				
+											Icare tombe,	GO																																				
+											Dieu grimpe.	GO																																				
+											On dira :	GO																																				
+											Dieu réussit,	GO																																				
+											là où l’Homme échoue.	GO																																				
+											Eh bien, c’est précisément ce que l’expérience / à laquelle je vais me livrer / entend réfuter.	GO																																				
+											Ah, il serait pratique de diviser le monde / entre les « Icare » et les « Jésus »,	GO																																				
+											et, pour être complet, chacun d’entre nous dans sa vie,	GO																																				
+											selon les moments, selon les situations,	GO																																				
+											peut être Icare et puis Jésus	GO																																				
+											ou Jésus et puis Icare,	GO																																				
+											tant nous sommes faits d’une succession de chutes et d’élévations.	GO																																				
+											Pourtant ce serait cautionner le malentendu.	GO																																				
+											Non,	GO																																				
+											je ne vous laisserai pas croire que cette bipartition du monde me satisfait.	GO																																				
+											Serait-elle exacte que je la contesterais encore.	GO																																				
+											Donc,	GO																																				
+											entre le scepticisme repu de lui-même	GO																																				
+											et l’idéalisme de ceux qui croient l’envol réservé à la caste divine,	GO																																				
+											je veux inscrire la possibilité qu’un homme,	GO																																				
+											un homme tout bête,	GO																																				
+											moi !	GO																																				
+											réussisse là où régnait le privilège de Dieu,	GO																																				
+											et en aucun cas ne soit voué à subir le sort du malheureux Icare.	GO																																				
+												GO				Un silence																																
+											Sur la page du ciel, devant vous, je vais maintenant écrire un texte nouveau. »	GO																																				
+							étendez les bras comme pour qu'on vous mette un manteau / ou comme Jésus à vous de voir					GO																																				
+																																																
+		Maman qui entre	GO																																													
+																														GO				Entrez et dirigez vous vers votre mari / vous êtes anxieuse														
+																													« Tes ailes. Voici tes ailes.	GO				Prenez la voix de ce que vous pensez être la mère														
+		(Elle aide papa à les fixer).	GO																																													
+																														GO				Aidez votre mari imaginaire à fixer ses ailes imaginaires														
+		Je ne sais pas si tu seras jamais un oiseau,	GO																											GO				Reprenez la voix de la mère														
+		mais tu es un seigneur ».	GO																																													
+		Elle pleure,	GO																											GO				Prenez la main de votre mari et pleurez en vous éloignant														
+		elle l’embrasse.	GO																											GO				Sautez au cou de votre mari et pleurez lui dans la nuque														
+		Mon père me prend dans ses bras	GO									GO				Prenez le narrateur dans vos bras														GO				Eloignez vous de nouveau dans la foule														
+											« Fils,	GO																																				
+											le rêve d’Icare	GO																																				
+											est ton héritage ».	GO																																				
+			GO				Prenez la voix d'un.e enfant																																									
+		Tu reviendras ?	GO																																													
+							Reprenez la voix du narrateur																																									
+		j’ai dit.									« Je reviendrai te chercher.	GO																																				
+											Je te le promets,	GO																																				
+												GO				Un silence																																
+											on fera le tour du monde en tandem ».	GO																																				
+												GO				Riez, c'était là encore une blague																																
+			GO				Ayez un petit rire étouffé																																									
+		Je ris, il rit.	GO									GO				Immobilisez vous de nouveau en pleine action / comme sur une photographie																																
+			GO				Un silence																																									
+		Le vol a mal tourné bien sûr.	GO																																													
+		Papa a grimpé sur la falaise,	GO																																													
+			GO				Un silence																																									
+		il a visé le soleil,	GO																																													
+			GO				Un silence																																									
+		a secoué ses ailes,	GO																																													
+			GO				Un silence																																									
+		s’est lancé,	GO																																													
+			GO				Un long silence																																									
+		s’est écrasé sur les vagues.	GO																																													
+		Après sa chute, sa voix bruissait encore dans les nuages	GO																																													
+		« Je survolerai la terre,	GO				Prenez la voix de votre père																																									
+		je nommerai les infamies que je vois,	GO																																													
+		je nommerai aussi la beauté du monde ».	GO																																													
+																																																
+88																																																
