@@ -8,7 +8,8 @@ Le fichiers principaux:
 - un dossier sons contenant des fichiers son ;-)
 
 Quelques règles à respecter:
-- ne pas toucher au fichier .toe si on ne connait pas
+- ne pas toucher au fichier .toe si on ne sait pas :-(
+- 
 dans le tableau :
 - ne pas changer les en-têtes de collone
 - chaque réplique doit commencer par un N° qui suit celui de la réplique précédente
