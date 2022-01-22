@@ -24,3 +24,5 @@ dans la colonne "son", si le nom qui est écrit correspond exactement à un fich
 il continue à jouer tant qu'il est écrit dans la colonne. (le nom écrit sans le suffixe)
 
 dans la colonne "image", même chose avec un fichier .jpg du dossier images (sans suffixe)
+
+attention aux encodages quand vous faites un "copier-coller", je recommande d'éditer le texte dans Modern CSV
