@@ -152,25 +152,25 @@ numRep	nbrJoueur	txtJ1	b1J1	b2J1	b3J1	b4J1	didJ1	voixJ1	sonJ1	imageJ1	txtJ2	b1J2
 		Après, ils eurent des enfants. On raconte qu’un des fils a liquidé l’autre. 																																														
 		C’est vraiment merdeux comme commencement.																																														
 																																																
-40	1		GO					Regarde la personne en face de toi et dit :	Bruit d'une salle de restaurant	"GIF de ""SIRI"""																												tentation	intimite	plaisir	succomber	posture						
+40	1		GO					Regarde la personne en face de toi et dis :	Bruit d'une salle de restaurant et battements de coeur	"GIF de ""SIRI"""																												tentation	intimite	plaisir	succomber	posture						
 		JE VOUS ENVIE	GO						""""																																							
-			GO					Si elle exquice un sourire, bravo ! Dis à présent sans la lâcher du regard :	""""	GIF qui applaudit																																						
+			GO					Si elle exquice un sourire, BRAVO ! Dis à présent sans la lâcher du regard :	""""	GIF qui applaudit																																						
 		VOUS toute votre personne n'est que DIGNITÉ	GO						""""																																							
 		MOI c'est un costume qui ne me va pas la DIGNITÉ	GO						""""																																							
-		ça me serre de partout	GO						""""																																							
-		un horrible corset qui donne de la douleur la? ou? on attend le plaisir	GO						""""																																							
+		ça me SERRE de partout	GO						""""																																							
+		un HORRIBLE corset qui donne de la DOULEUR là où on attend le PLAISIR	GO						""""																																							
 			GO					Alors ? Tu as son attention ?	""""	"GIF de ""SIRI"""																																						
-			GO					Bravo ! Ça semble bien parti ! Continue :	""""	GIF qui applaudit																																						
+			GO					BRAVO ! Ça semble bien parti ! Continue :	""""	GIF qui applaudit																																						
 		Je ne me moque pas de vos sentiments	GO						""""																																							
-		ils sont profonds généreux comme votre intelligence	GO						""""																																							
+		ils sont PROFONDS généreux comme votre intelligence	GO						""""																																							
 			GO					Tout se joue maintenant, il faut que tu sois convaiquant !	""""	GIF d'un cœur qui bat																																						
-		Pas une seconde je n’oublie les accords qui NOUS ont fait vibrer	GO						""""																																							
-		grand dieu non	GO						""""																																							
+		Pas une seconde je n’oublie LES ACCORDS QUI NOUS ONT FAIT VIBRER	GO						""""																																							
+		grand dieu NON	GO						""""																																							
 			GO					C'est la dernière ligne droite, articule bien maintenant :	""""	GIF d'un entraineur qui encourage																																						
-		Mais la tentation me fait toujours SUCC-OM-BER	GO						""""																																							
+		Mais la tentation me fait toujours SUCCOMBER	GO						""""																																							
 		J'aime beaucoup SUCC-OM-BER	GO						""""																																							
-		Dire SUCC-OM-BER me fait déjà? SUCC-OM-BER.	GO						""""																																							
-			GO					Tend lui la main. Si elle la prend, bravo !	""""	GIF feux d'artifices																																						
+		Dire SUCC-OM-BER me fait déjà SUCCOMBER.	GO						""""																																							
+			GO					Tend lui la main. Si la personne la prend, BRAVO !	""""	GIF feux d'artifices																																						
 																																																
 41	1		GO						Son ambiance 																													masque	mort	deuil	photo	souvenir	vie	poussiere	cycle	recit		
 		Une bohémienne m'a dit un jour que je vivrais longtemps,	GO				Circulation dans l'espace																																									
